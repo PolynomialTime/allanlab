@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Liu AI Lab at Leiden University."
+excerpt: "Liu AI Lab at The University of Auckland."
 sitemap: false
 permalink: /allnews.html
 ---
