@@ -1,10 +1,10 @@
-- name: xxx
-  photo: Milan.jpg
-  info: Ph.D.
-  email: x@gmail.com
+- name: Jiamou Liu
+  photo: jiamou.jpg
+  info: Senior Lecturer
+  email: jiamou.liu@auckland.ac.nz
   number_educ: 5
-  education1: 1
-  education2: 2
-  education3: 3
-  education4: 4
-  education5: 5
+  education1: multi-agent systems
+  education2: computational social science
+  education3: computational complexity 
+  education4: automata theory
+  education5: pure and applied aspects of logic

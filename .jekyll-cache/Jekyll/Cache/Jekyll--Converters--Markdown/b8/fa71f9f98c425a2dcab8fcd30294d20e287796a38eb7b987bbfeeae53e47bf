@@ -1,0 +1,28 @@
+I"D<h1 id="publications">Publications</h1>
+
+<h2 id="highlights">Highlights</h2>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>xxx</pubtit>
+      <p><img src="/images/pubpic/" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>xxx</p>
+      <p><em>xxx</em></p>
+      <p><strong><a href="xxx">xxx</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+
+<p>   </p>
+
+<h2 id="full-list">Full List</h2>
+
+<p>xxx <br />
+  <em>xxx </em><br /><a href="xxx">xxx</a></p>
+
+:ET

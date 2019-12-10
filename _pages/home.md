@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are an AI research group at the [University of Acukland](https://www.auckland.ac.nz). Our aim is to explore and understand artificial intelligence from both theory and industry. Our research interests cover a wide range of topics across the modern AI world, including reinforcement learning, multi-agent systems, natural language processing and complex network analysis. This research group is led by Dr. [Jiamou Liu](cs.auckland.ac.nz/~jliu036).
+We are an AI research group at the [University of Acukland](https://www.auckland.ac.nz). Our aim is to explore and understand artificial intelligence from both theory and industry. Our research interests cover a wide range of topics across the modern AI world, including deep learning, reinforcement learning, multi-agent systems, natural language processing and complex network analysis. This research group is led by Dr. [Jiamou Liu](cs.auckland.ac.nz/~jliu036).
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -44,11 +44,7 @@ We are an AI research group at the [University of Acukland](https://www.auckland
   </a>
 </div>
 
-<!--
+
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/uoa-logo.png" style="width: 300px">
 </figure>
--->
