@@ -7,9 +7,9 @@ permalink: /publications/
 ---
 
 
-# Publications
+# PUBLICATIONS
 
-## Highlights
+## HIGHLIGHTS
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -50,7 +50,7 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 
-## Full List
+## FULL LIST
 
 {% for publi in site.data.publist %}
 
