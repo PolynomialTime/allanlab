@@ -1,6 +1,6 @@
-I"(<h1 id="group-members">Group Members</h1>
+I"‘<h1 id="group-members">Group Members</h1>
 
-<p><strong>We are  looking for new PhD students, Postdocs, and Master students to join the team</strong> <a href="/vacancies">(see openings)</a> <strong>!</strong></p>
+<p><strong>We are  looking for new PhD students, Postdocs, and Master students to join the team</strong> <a href="http://localhost:4000/vacancies">(see openings)</a> <strong>!</strong></p>
 
 <p>Jump to <a href="#staff">staff</a>, <a href="#master-and-bachelor-students">master and bachelor students</a>, <a href="#alumni">alumni</a>, <a href="#administrative-support">administrative support</a>, <a href="#lab-visitors">lab visitors</a>.</p>
 
@@ -9,7 +9,7 @@
 <div class="row">
 
   <div class="col-sm-6 clearfix">
-    <p><img src="/images/teampic/Milan.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <p><img src="http://localhost:4000/images/teampic/Milan.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>xxx</h4>
     <p><i>Ph.D.<br />email: <a href="mailto:x@gmail.com">x@gmail.com</a></i></p>
     <ul style="overflow: hidden">
@@ -62,7 +62,7 @@
 <div class="row">
 
   <div class="col-sm-6 clearfix">
-    <p><img src="/images/teampic/verdoes.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <p><img src="http://localhost:4000/images/teampic/verdoes.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Gijsbert Verdoes</h4>
     <p><i>In the Allan Lab 2015 - 2018, now Project manager at the FMD <br /> Role: Fine mechanical engineer associated with the FMD working in our group</i></p>
     <ul style="overflow: hidden">
@@ -71,7 +71,7 @@
   </div>
 
   <div class="col-sm-6 clearfix">
-    <p><img src="/images/teampic/irene.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <p><img src="http://localhost:4000/images/teampic/irene.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Irene Battisti</h4>
     <p><i>In the Allan Lab Jan 2015 to June 2019, now R&amp;D scientist at Nearfield Instruments <br /> Role: PhD student</i></p>
     <ul style="overflow: hidden">
@@ -84,7 +84,7 @@
 <div class="row">
 
   <div class="col-sm-6 clearfix">
-    <p><img src="/images/teampic/Doohee2.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <p><img src="http://localhost:4000/images/teampic/Doohee2.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Doohee Cho</h4>
     <p><i>In the Allan Lab May 2017 to June 2019, now assistant professor at Yonsei University <br /> Role: Postdoc</i></p>
     <ul style="overflow: hidden">
