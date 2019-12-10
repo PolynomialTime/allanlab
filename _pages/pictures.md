@@ -1,7 +1,7 @@
 ---
-title: "UOA AI Lab - Pictures"
+title: "Liu AI Lab - Pictures"
 layout: piclay
-excerpt: "Allan Lab -- Pictures"
+excerpt: "Liu AI Lab -- Pictures"
 permalink: /pictures/
 ---
 

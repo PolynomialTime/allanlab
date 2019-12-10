@@ -1,7 +1,7 @@
 ---
-title: "UOA AI Lab - Home"
+title: "Liu AI Lab - Home"
 layout: homelay
-excerpt: "AI Lab at The University of Auckland."
+excerpt: "Liu AI Lab at The University of Auckland."
 sitemap: false
 permalink: /
 ---

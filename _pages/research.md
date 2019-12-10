@@ -1,7 +1,7 @@
 ---
-title: "UOA AI Lab - Research"
+title: "Liu AI Lab - Research"
 layout: textlay
-excerpt: "UOA AI Lab -- Research"
+excerpt: "Liu AI Lab -- Research"
 sitemap: false
 permalink: /research/
 ---
