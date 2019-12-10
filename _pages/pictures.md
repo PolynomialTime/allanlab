@@ -5,4 +5,4 @@ excerpt: "Liu AI Lab -- Pictures"
 permalink: /pictures/
 ---
 
-# Pictures
+# PICTURES

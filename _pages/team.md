@@ -6,7 +6,7 @@ sitemap: false
 permalink: /team/
 ---
 
-# Group Members
+# GROUP MEMBERS
 
  **We are  looking for new PhD students, Postdocs, and Master students to join the team!**
 
@@ -72,7 +72,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-## PhD
+## PHD
 
 {% assign number_printed = 0 %}
 {% for member in site.data.phd_members %}
@@ -107,7 +107,7 @@ permalink: /team/
 
 
 
-## Master and Bachelor Students
+## MASTER AND BACHELOR STUDENTS
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -162,7 +162,7 @@ permalink: /team/
 
 
 
-## Former visitors, PhD, BSc/ MSc students
+## FORMER VISITORS, PHD, BSc/ MSc STUDENTS
 <div class="row">
 
 <div class="col-sm-4 clearfix">
