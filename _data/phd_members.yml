@@ -11,7 +11,13 @@
 
 - name: Yang Chen
   photo: yangchen.jpg
-  duration: 2017. 11 -- Present
+  duration: 2018. 11 -- Present
   email: yang.chen@auckland.ac.nz
   homepage: https://www.yangchen.info
   info: I received my First Class Honours degree in computer science from The University of Auckland in 2018. I received my B.S. in computer science from Beijing Institute of Technology in 2017. My research interests include social networks analysis, multi-agent systems, and deep reinforcement learning. Lately my research focus is on applying deep reinforcement learning and graph neural networks to graph-structured data.
+
+- name: Yiping Liu
+  photo: yiping.jpg
+  duration: 2019. 11 -- Present
+  email: yliu823@aucklanduni.ac.nz
+  Bio: I received my backelor of mathmatics and master of engineering from Beijing Institute of Technology. My major interest lies in the  network structures and dynamics.  Recently my research focuses on the core/periphery structures. I am also interested in the theoretical analysis of machine learning, graph-based neural network, and so on.
