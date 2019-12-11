@@ -6,4 +6,4 @@ sitemap: false
 permalink: /research/
 ---
 
-# RESEARCH
+# Research

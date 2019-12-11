@@ -6,7 +6,7 @@ sitemap: false
 permalink: /allnews.html
 ---
 
-# NEWS
+# News
 
 {% for article in site.data.news %}
 <p>{{ article.date }} <br>
