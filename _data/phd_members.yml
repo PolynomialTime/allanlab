@@ -1,10 +1,9 @@
-- name: xxx
-  photo: xxx
-  duration: xxx
-  info: xxx
-  email: xxx
-  number_educ: 1
-  education1: xxx
-  education2:
-  education3:
-  education4:
+- name: Bill Bao
+  photo: bao.jpg
+  duration: to start
+  info: My research interests lie in the intersection between natural language processing and question answering. Recently my research mainly focuses on machine reasoning. My main research activities involve natural language understanding; topics of interest include problem decomposition, knowledge acquisition, explanation, entailment and generate QA. I am also interested in the graph-based neural network.
+  email: qbao775@aucklanduni.ac.nz
+  number_educ: 3
+  education1: First-class Honours, The University of Auckland
+  education2: Bachelor of Science in Computer and Information Science, Auckland University of Technology, NZ
+  education3: Bachelor of Science in Computer Science & Bachelor of Law in Intellectual Property, China Jiliang University, China
