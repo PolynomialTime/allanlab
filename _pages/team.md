@@ -86,7 +86,7 @@ permalink: /team/
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i align=”justify”> {{ member.duration }} <br> Email: {{ member.email }} <br> Bio: {{ member.info }} </i>
+  <i><p align=”justify”> {{ member.duration }} <br> Email: {{ member.email }} <br> Bio: {{ member.info }} </p></i>
   <ul style="overflow: hidden">
 
   </ul>
