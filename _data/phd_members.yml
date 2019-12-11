@@ -1,7 +1,7 @@
 - name: Bill Bao
   photo: bao.jpg
   duration: To start PhD
-  info: My research interests lie in the intersection between natural language processing and question answering. Recently my research mainly focuses on machine reasoning. My main research activities involve natural language understanding; topics of interest include problem decomposition, knowledge acquisition, explanation, entailment and generate QA. I am also interested in the graph-based neural network.
+  bio: My research interests lie in the intersection between natural language processing and question answering. Recently my research mainly focuses on machine reasoning. My main research activities involve natural language understanding; topics of interest include problem decomposition, knowledge acquisition, explanation, entailment and generate QA. I am also interested in the graph-based neural network.
   email: qbao775@aucklanduni.ac.nz
   homepage:
   number_educ: 3
@@ -14,10 +14,10 @@
   duration: 2018. 11 -- Present
   email: yang.chen@auckland.ac.nz
   homepage: https://www.yangchen.info
-  info: I received my First Class Honours degree in computer science from The University of Auckland in 2018. I received my B.S. in computer science from Beijing Institute of Technology in 2017. My research interests include social networks analysis, multi-agent systems, and deep reinforcement learning. Lately my research focus is on applying deep reinforcement learning and graph neural networks to graph-structured data.
+  bio: I received my First Class Honours degree in computer science from The University of Auckland in 2018. I received my B.S. in computer science from Beijing Institute of Technology in 2017. My research interests include social networks analysis, multi-agent systems, and deep reinforcement learning. Lately my research focus is on applying deep reinforcement learning and graph neural networks to graph-structured data.
 
 - name: Yiping Liu
   photo: yiping.jpg
   duration: 2019. 11 -- Present
   email: yliu823@aucklanduni.ac.nz
-  info: I received my backelor of mathmatics and master of engineering from Beijing Institute of Technology. My major interest lies in the  network structures and dynamics.  Recently my research focuses on the core/periphery structures. I am also interested in the theoretical analysis of machine learning, graph-based neural network, and so on.
+  bio: I received my backelor of mathmatics and master of engineering from Beijing Institute of Technology. My major interest lies in the  network structures and dynamics.  Recently my research focuses on the core/periphery structures. I am also interested in the theoretical analysis of machine learning, graph-based neural network, and so on.
