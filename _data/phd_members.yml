@@ -3,7 +3,15 @@
   duration: To start PhD
   info: My research interests lie in the intersection between natural language processing and question answering. Recently my research mainly focuses on machine reasoning. My main research activities involve natural language understanding; topics of interest include problem decomposition, knowledge acquisition, explanation, entailment and generate QA. I am also interested in the graph-based neural network.
   email: qbao775@aucklanduni.ac.nz
+  homepage:
   number_educ: 3
   education1: First-class Honours, The University of Auckland
   education2: Bachelor of Science in Computer and Information Science, Auckland University of Technology, NZ
   education3: Bachelor of Science in Computer Science & Bachelor of Law in Intellectual Property, China Jiliang University, China
+
+- name: Yang Chen
+  photo: yangchen.jpg
+  duration: 2017. 11 -- Present
+  email: yang.chen@auckland.ac.nz
+  homepage: https:www.yangchen.info
+  info: I received my First Class Honours degree in computer science from The University of Auckland in 2018. I received my B.S. in computer science from Beijing Institute of Technology in 2017. My research interests include social networks analysis, multi-agent systems, and deep reinforcement learning. Lately my research focus is on applying deep reinforcement learning and graph neural networks to graph-structured data.
