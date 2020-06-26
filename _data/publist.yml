@@ -37,3 +37,95 @@
     display: 
   highlight: 0
   news2:
+
+- title: "What's in a gist? Towards an unsupervised gist representation for few-shot large document classification"
+  image:
+  description: "PAKDD 2020: The 24th Pacific-Asia Conference on Knowledge Discovery and Data Mining, Singapore, 2020."
+  authors: _**J. Mar**_, _**J. Liu**_
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+- title: "HHH: An Online Medical Chatbot System based on Knowledge Graph and Hierarchical Bi-Directional Attention"
+  image:
+  description:  "Australasian Computer Science Week, ACSW 2020, Melbourne, Australia."
+  authors: _**J. Mar**_, _**J. Liu**_
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+- title: "Becoming Gatekeepers Together with Allies: Collaborative Brokerage over Social Networks"
+  image:
+  description: "ASONAM 2019. IEEE/ACM International Conference on Social Networks Analysis and Mining, Vancouver, Canada, 2019."
+  authors: _**Y. Chen**_, _**J. Liu**_
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+- title: "Can Reinforcement Learning Enhance Social Capital?"
+  image:
+  description: "International Conference on Web Information Systems Engineering 2019, 157-171, Springer."
+  authors: _**Y. Chen**_, _**J. Liu**_
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+- title: "REM: From Structural Entropy to Community Structure Deception"
+  image:
+  description:  "NeurIPS 2019. Thirty-third Conference on Neural Information Processing Systems"
+  authors: Y. Liu, _**J. Liu**_, Z. Zhang, Z. Zhu, A. Li
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+ - title: "On the maximization of influence over an unknown social network (extended abstract)"
+  image:
+  description: "AAMAS 2019: 18th International Conference on Autonomous Agents and Multi-Agent Systems, Montreal, 2019."
+  authors: B. Yan, K. Song, _**J. Liu**_, _**Y. Liu**_
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+ - title: "To be Big Picture Thinker or Detail-Oriented? Utilizing Perceived Gist Information to Achieve Efficient Convention Emergence with Bilateralism and Multilateralism (extended abstract)"
+  image:
+  description: "AAMAS 2019: 18th International Conference on Autonomous Agents and Multi-Agent Systems, Montreal, 2019." 
+  authors: S. Hu, C. Leong, H. Leong, _**J. Liu**_
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+ - title: "Periodic Neural Networks for Multivariate Time Series Analysis and Forecasting"
+  image:
+  description: "IJCNN 2019: International Joint Conference on Neural Network, Budapest, Hungary, 2019." 
+  authors: N. Avazov, _**J. Liu**_, B. Khoussainov
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+ - title: "Distributed Community Detection over Blockchain Networks Based on Structural Entropy"
+  image:
+  description: "ACM International Symposium on Blockchain and Secure Critical Infrastructure (BSCI 2019), held in conjunction with AsiaCCS 2019. **(Best paper award)**"
+  authors: _**Y. Chen**_, _**J. Liu**_
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+
