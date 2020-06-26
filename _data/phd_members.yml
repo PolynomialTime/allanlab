@@ -3,7 +3,7 @@
   duration: 2020.02 -- Present
   bio: Qiming received a Bachelor of Science (Honours) degree with First Class Honours in Computer Science from the University of Auckland in 2019. His research interests lie in the intersection between natural language processing and question answering. Recently his research mainly focuses on machine reasoning. His main research activities involve natural language understanding, natural language inference, and soft reasoning; topics of interest include problem decomposition, knowledge acquisition, explanation, entailment, and generate QA. He is also interested in the graph-based neural network.
   email: qbao775@aucklanduni.ac.nz
-  homepage:
+  homepage: https://unidirectory.auckland.ac.nz/profile/qbao775
   number_educ: 3
   education1: First-class Honours, The University of Auckland
   education2: Bachelor of Science in Computer and Information Science, Auckland University of Technology, NZ
@@ -61,7 +61,7 @@
 
 - name: Mengxiao Zhang
   photo: mengxiao.jpg
-  duration: 2017.4 -- Present 
+  duration: 2017.04 -- Present 
   email: mengxiao.zhang@auckland.ac.nz
   bio: I hold Bachelor’s degree of Management in Information Management and Information Systems and Master’s degree of management in Management Science and Engineering. My research interests are algorithmic mechanism design and economics of security and privacy. My current research focus is incentive mechanisms for data pricing and privacy preservation.
 
