@@ -14,7 +14,7 @@
   duration: 2018. 11 -- Present
   email: yang.chen@auckland.ac.nz
   homepage: https://www.yangchen.info
-  bio: I received my First Class Honours degree in computer science from The University of Auckland in 2018. I received my B.S. in computer science from Beijing Institute of Technology in 2017. My research interests include social networks analysis, multi-agent systems, and deep reinforcement learning. Lately my research focus is on applying deep reinforcement learning and graph neural networks to graph-structured data.
+  bio: I received my First Class Honours degree in computer science from the University of Auckland in 2018, and my B.S. in computer science from Beijing Institute of Technology in 2017. My main research interest lies in reinforcement learning in structured and non-structured multi-agent systems. I aim to solve issues modeled as multi-agent systems from the learning and game-theoretical perspective. Along this line, my ultimate goal is to reinforce insights into rules of applying machine learning techniques in conjunction with game theory. Very recently, my focus moves to reinforcement learning in games with tons of agents.
 
 - name: Jaron Mar
   photo: bio-photo.jpg
