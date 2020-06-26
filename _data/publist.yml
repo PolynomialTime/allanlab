@@ -1,10 +1,299 @@
 - title: "WiPOS: A POS Terminal Password Inference System Based on Wireless Signals"
   image:
-  description:
-  authors: Z. Zhang, N. Avazov, **J. Liu**, B. Khoussainov, X. Li, K. Gai, L. Zhu
+  description: IEEE Internet of Things Journal, 2020.
+  authors: Z. Zhang, N. Avazov, _**J. Liu**_, B. Khoussainov, X. Li, K. Gai, L. Zhu
   link:
     url: 
     display: 
   highlight: 0
   news2:
 
+- title: "On the Use of Dictionary Learning in Time Series Imputation"
+  image:
+  description: 28th European Signal Processing Conference (EUSIPCO 2020), 2020.
+  authors: _**X. Zheng**_, B. Dumitrescu, _**J. Liu**_, C. Giurcaneanu
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+- title: "Selling Data at an Auction under Privacy Constraints"
+  image:
+  description: UAI 2020. 36th Conference on Uncertainty in Artificial Intelligence, 2020.
+  authors: _**M. Zhang**_, F. Beltran, _**J. Liu**_
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+- title: "Social Structure Emergence: A Multi-agent Reinforcement Learning Framework for Relationship Building"
+  image:
+  description: AAMAS 2020. 19th International Conference on Autonomous Agents and Multi-Agent Systems, 2020.
+  authors: _**Y. Chen**_, _**J. Liu**_, H. Zhao, H. Su
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+- title: "What's in a gist? Towards an unsupervised gist representation for few-shot large document classification"
+  image:
+  description: PAKDD 2020. The 24th Pacific-Asia Conference on Knowledge Discovery and Data Mining, Singapore, 2020.
+  authors: _**J. Mar**_, _**J. Liu**_
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+- title: "HHH: An Online Medical Chatbot System based on Knowledge Graph and Hierarchical Bi-Directional Attention"
+  image:
+  description:  Australasian Computer Science Week, ACSW 2020, Melbourne, Australia.
+  authors: _**J. Mar**_, _**J. Liu**_
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+- title: "Becoming Gatekeepers Together with Allies: Collaborative Brokerage over Social Networks"
+  image:
+  description: ASONAM 2019. IEEE/ACM International Conference on Social Networks Analysis and Mining, Vancouver, Canada, 2019.
+  authors: _**Y. Chen**_, _**J. Liu**_
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+- title: "Can Reinforcement Learning Enhance Social Capital?"
+  image:
+  description: International Conference on Web Information Systems Engineering 2019, 157-171, Springer.
+  authors: _**Y. Chen**_, _**J. Liu**_
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+- title: "REM: From Structural Entropy to Community Structure Deception"
+  image:
+  description:  NeurIPS 2019. Thirty-third Conference on Neural Information Processing Systems 
+  authors: Y. Liu, _**J. Liu**_, Z. Zhang, Z. Zhu, A. Li
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+ - title: "On the maximization of influence over an unknown social network (extended abstract)"
+  image:
+  description: AAMAS 2019. 18th International Conference on Autonomous Agents and Multi-Agent Systems, Montreal, 2019. 
+  authors: B. Yan, K. Song, _**J. Liu**_, _**Y. Liu**_
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+ - title: "To be Big Picture Thinker or Detail-Oriented? Utilizing Perceived Gist Information to Achieve Efficient Convention Emergence with Bilateralism and Multilateralism (extended abstract)"
+  image:
+  description: AAMAS 2019. 18th International Conference on Autonomous Agents and Multi-Agent Systems, Montreal, 2019. 
+  authors: S. Hu, C. Leong, H. Leong, _**J. Liu**_
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+ - title: "Periodic Neural Networks for Multivariate Time Series Analysis and Forecasting"
+  image:
+  description: IJCNN 2019. International Joint Conference on Neural Network, Budapest, Hungary, 2019. 
+  authors: N. Avazov, _**J. Liu**_, B. Khoussainov
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+ - title: "Distributed Community Detection over Blockchain Networks Based on Structural Entropy"
+  image:
+  description: ACM International Symposium on Blockchain and Secure Critical Infrastructure (BSCI 2019), held in conjunction with AsiaCCS 2019. **(Best paper award)**
+  authors: _**Y. Chen**_, _**J. Liu**_
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+- title: "A Model of Minority Influence in Preferential Norm Formation"
+  image:
+  description: International Symposium on Knowledge and Systems Sciences KSS 2019. 106-121. Springer.}
+  authors: Q.Liu, H. Zheng,  _**W. Li**_, _**J. Liu**_, B. Yan, H. Su,
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+- title: "Time-Efficient Network Monitoring Through Confined Search and Adaptive Evaluation"
+  image:
+  description: PRICAI 2019.
+  authors: Q. Hu, A. Li, _**J. Liu**_, J. Liu
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+- title: "A Reinforcement Learning Approach to Gaining Social Capital with Partial Observation (extended abstract)"
+  image:
+  description: PRICAI 2019.
+  authors: H. Zhao, H. Su, _**Y. Chen**_, _**J. Liu**_, H. Zheng, B. Yan,
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+- title: "From the Periphery to the Core: Information Brokerage in an Evolving Network"
+  image:
+  description: the 27th International Joint Conference on Artificial Intelligence and the 23rd European Conference on Artificial Intelligence (IJCAI-ECAI 2018). 
+  authors: B. Yan, _**Y. Liu**_, _**J. Liu**_
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+- title: "Balancing the Pain and Gain of Hobnobbing: Utility-based Network Building over Attributed Social Networks"
+  image:
+  description: AAMAS-18. 17th International Conference on Autonomous Agents and Multiagent Systems.
+  authors: Y. Cai, H. Zheng, _**J. Liu**_, B. Yan, _**Y. Liu**_
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+- title: "Finding Answers from the Word of God: Domain Adaptation for Neural Networks in Biblical Question Answering"
+  image:
+  description: IJCNN 2018. International Joint Conference on Neural Networks.
+  authors: H. Zhao, _**J. Liu**_
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+- title: "Evaluating and Analyzing Reliability over Decentralized and Complex Networks"
+  image:
+  description: 22nd Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD 2018), Melbourne, Australia.
+  authors: _**J. Mar**_, _**J. Liu**_, W. Chen, Y. Tang, T. Sun, 
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+- title: "An Agent-based Approach to Simulate Post-earthquake Indoor Crowd Evacuation"
+  image:
+  description:  The 21st International Conference on Principles and Practice of Multi-Agent Systems (PRIMA 2018), Tokyo, Japan.
+  authors: _**L. Ni**_, V. Gonzalez, _**J. Liu**_, A. Rahouti, L. Zhang, B. P. Taing
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+- title: "MSO Theory of Decidable Infinite and Bi-infinite Words"
+  image:
+  description:  Logical Methods in Computer Science. 14(3), 2018.
+  authors: D. Kuske, _**J. Liu**_, A. Moskvina,
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+- title: "A Framework for Domain-Specific Natural Language Information Brokerage"
+  image:
+  description:  Journal of Systems Science and Systems Engineering. (2018). 559--585. Springer 2018.
+  authors: N. Lin, _**J. Liu**_
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+- title: "Network, Popularity and Social Cohesion: A Game-Theoretic Approach"
+  image:
+  description:  Proceedings of the Thirty-First AAAI Conference on Artificial Intelligence (AAAI-17), San Francisco, USA, 2017.
+  authors: _**J. Liu**_, Z. Wei
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+- title: "What Becomes of the Broken Hearted? -- An Agent-Based Approach to Self-Evaluation, Interpersonal Loss,  and Suicide Ideation"
+  image:
+  description:  AAMAS-17. Proceedings of  the Sixteenth International Conference on Autonomous Agents and Multiagent Systems, Sao Paulo, Brazil, 2017.
+  authors: _**J. Liu**_, L. Li, K. Russell
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+- title: "Dynamic Relationship Building: Exploitation Versus Exploration on a Social Network"
+  image:
+  description:  WISE-17. The 18th International Conference on Web Information Systems Engineering, Russia. 2017.
+  authors: B. Yan, _**Y. Chen**_, _**J. Liu**_
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+- title: "MANDY: Towards A Smart Primary Care Chatbot Application"
+  image:
+  description:  KSS-17. The 18th International Symposium on Knowledge and Systems Sciences, Bangkok, Thailand. 2017.
+  authors: _**L. Ni**_, C. Lu, N. Liu, _**J. Liu**_
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+- title: "How to Build Your Network: A Structural Analysis"
+  image:
+  description:  Proceedings of the 25th International Joint Conference on Artificial Intelligence (IJCAI-16), pp. 2597--2603. New York. AAAI Press,  2016.
+  authors: A. Moskvina, _**J. Liu**_
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+- title: "Togetherness: An Algorithmic Approach to Network Integration"
+  image:
+  description: Proceedings of thee IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining.
+  authors: A. Moskvina, _**J. Liu**_
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+- title: "Hierarchies, Ties and Power in Organizational Networks: Model and Analysis"
+  image:
+  description: Social Network Analysis and Mining 6(1). 106:1-106:26. Springer 2016.
+  authors: _**J. Liu**_, A. Moskvina
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
