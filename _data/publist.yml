@@ -1,10 +1,10 @@
-- title: "xxx"
+- title: "WiPOS: A POS Terminal Password Inference System Based on Wireless Signals"
   image:
-  description: xxx
-  authors: xxx
+  description:
+  authors: Z. Zhang, N. Avazov, **J. Liu**, B. Khoussainov, X. Li, K. Gai, L. Zhu
   link:
-    url: xxx
-    display:  xxx
-  highlight: 1
+    url: 
+    display: 
+  highlight: 0
   news2:
 
