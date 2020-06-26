@@ -1,7 +1,7 @@
-- name: Bill Bao
+- name: Qiming Bao
   photo: bao.jpg
-  duration: To start PhD
-  bio: My research interests lie in the intersection between natural language processing and question answering. Recently my research mainly focuses on machine reasoning. My main research activities involve natural language understanding; topics of interest include problem decomposition, knowledge acquisition, explanation, entailment and generate QA. I am also interested in the graph-based neural network.
+  duration: 2020.02 -- Present
+  bio: Qiming received a Bachelor of Science (Honours) degree with First Class Honours in Computer Science from the University of Auckland in 2019. His research interests lie in the intersection between natural language processing and question answering. Recently his research mainly focuses on machine reasoning. His main research activities involve natural language understanding, natural language inference, and soft reasoning; topics of interest include problem decomposition, knowledge acquisition, explanation, entailment, and generate QA. He is also interested in the graph-based neural network.
   email: qbao775@aucklanduni.ac.nz
   homepage:
   number_educ: 3
@@ -32,7 +32,7 @@
   photo: yiping.jpg
   duration: 2019. 11 -- Present
   email: yliu823@aucklanduni.ac.nz
-  bio: I received my backelor of mathmatics and master of engineering from Beijing Institute of Technology. My major interest lies in the  network structures and dynamics.  Recently my research focuses on the core/periphery structures. I am also interested in the theoretical analysis of machine learning, graph-based neural network, and so on.
+  bio: I received my bachelor of mathmatics and master of engineering from Beijing Institute of Technology. My major interest lies in the  network structures and dynamics.  Recently my research focuses on the core/periphery structures. I am also interested in the theoretical analysis of machine learning, graph-based neural network, and so on.
 
 - name: Lin Ni
   photo: bio-photo.jpg
@@ -54,23 +54,23 @@
 
 - name: Song Yang
   photo: songyang.jpg
-  duration: 2019.12 -Present
+  duration: 2019.12 -- Present
   email: syan382@aucklanduni.ac.nz
   bio: I got my master degree of computer science from the University of Auckland in 2018 and got my bachlor degree from Nanjing University in 2016. My main research interests are machine learning, deep learning, graph-based neural network and computer vision. I also do reserach related to artificial intelligence in healthcare and software engineering.
 
 
 - name: Mengxiao Zhang
   photo: mengxiao.jpg
-  duration: 2017.4-Present 
+  duration: 2017.4 -- Present 
   email: mengxiao.zhang@auckland.ac.nz
   bio: I hold Bachelor’s degree of Management in Information Management and Information Systems and Master’s degree of management in Management Science and Engineering. My research interests are algorithmic mechanism design and economics of security and privacy. My current research focus is incentive mechanisms for data pricing and privacy preservation.
 
 
 - name: Zeyu Zhang
-  photo: bio-photo.jpg
-  duration: 
+  photo: zeyu.jpg
+  duration: 2018.09 -- Present
   email: alex.zhang@auckland.ac.nz
-  bio: 
+  bio: I received my bachelor degree from Wuhan Institute of Technology and master degree from Wuhan University of Technology. I have been a lecturer in Guangdong University of Petrochemical Technology from 2015 to 2018. My research interests include social network analysis, especially network embedding.
 
 - name: Xiaomeng Zheng
   photo: bio-photo.jpg
