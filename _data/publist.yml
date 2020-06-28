@@ -1,3 +1,24 @@
+- title: "Who is Driving? Event-Driven Driver Identification and Impostor Detection Through Support Vector Machine"
+  image:
+  description: "IEEE Sensors Journal, Volume: 20, Issue: 12, June 15, 2020. (IF:3.076)"
+  authors: M. Rahim, **J. Liu**, Z. Zhang, L. Zhu, X. Li, S. Khan
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+- title: "Zero-to-Stable Driver Identification: A Non-Intrusive and Scalable Driver Identification Scheme"
+  image:
+  description: "IEEE Transactions on Vehicular Technology (Volume: 69, Issue: 1, Jan. 2020) (IF: 5.339)"
+  authors: M. Rahim, L. Zhu, X.Li, **J. Liu**, Z. Zhang, Z. Qin, S. Khan, K. Gai
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+
 - title: "WiPOS: A POS Terminal Password Inference System Based on Wireless Signals"
   image:
   description: "IEEE Internet of Things Journal, 2020."
