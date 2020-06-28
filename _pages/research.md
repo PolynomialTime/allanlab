@@ -6,7 +6,7 @@ sitemap: false
 permalink: /research/
 ---
 
-# Research
+# Examples of the Type of Research We Do:
 
 
 ## Social networks and complex networks analysis
