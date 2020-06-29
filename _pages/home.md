@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are an AI research group at the [University of Acukland](https://www.auckland.ac.nz). We are engaged in artificial intelligence research and development from both the industrial and the academic side. Our research interests cover a wide range of topics across the modern AI world, including deep learning, reinforcement learning, multi-agent systems, natural language processing and complex network analysis. This research group is led by Dr. [Jiamou Liu](cs.auckland.ac.nz/~jliu036).
+We are an AI research group at the [University of Auckland](https://www.auckland.ac.nz). We are engaged in artificial intelligence research and development from both the industrial and the academic side. Our research interests cover a wide range of topics across the modern AI world, including deep learning, reinforcement learning, multi-agent systems, natural language processing and complex network analysis. This research group is led by Dr. [Jiamou Liu](cs.auckland.ac.nz/~jliu036).
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
