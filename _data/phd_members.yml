@@ -52,6 +52,13 @@
   email: qqi518@aucklanduni.ac.nz
   bio: I received my M.Sc. degree specialised in Communications and Signal Processing from Imperial College London in 2014, and my B.Eng. degree major in Electronic and Information Engineering from Dalian University of Technology in 2013. After that, I worked as a software engineer in Singapore for more than 4 years. I am now doing research in the field of Natural Language Processing, mainly on natural language understanding and generation. 
 
+- name: Yifei Wang
+  photo: yifei.jpg
+  duration: To start PhD
+  e-mail:
+  bio: I received my master degree in computer science and technology from the Beihang University in 2020, and bachelor in software engineering from Dalian University of Technology in 2017. My main research interests are machine learning and deep learning, especially Graph-based models and Self-supervised models. Recently, I am focused on constructing hybrid models combining anchor-based graph and neural networks to solve real-world problems with Self-supervised learning.
+
+
 - name: Yupan Wang
   photo: bio-photo.jpg
   duration: 
