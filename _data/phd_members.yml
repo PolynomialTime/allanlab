@@ -60,10 +60,10 @@
 
 
 - name: Yupan Wang
-  photo: bio-photo.jpg
-  duration: 
-  email: 
-  bio: 
+  photo: yupan.jpg
+  duration: 2019.12 -- Present
+  email: ywan980@aucklanduni.ac.nz
+  bio: I received both my Honours (First Class) and Bachelor of Science Degrees in Computer Science from The University of Auckland. My main research interest lies in network structures, optimization problems, and discrete space evaluation and optimization. Recently, I am focused on core-periphery network structures.
 
 - name: Song Yang
   photo: songyang.jpg
