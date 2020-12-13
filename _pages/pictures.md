@@ -13,14 +13,14 @@ permalink: /pictures/
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures %}
 
-{% assign even_odd = number_printed | modulo: 4 %}
+{% assign even_odd = number_printed | modulo: 3 %}
 
 {% if even_odd == 0 %}
 <div class="row">
 {% endif %}
 
 <div class="col-sm-3 clearfix">
-<h4> {{ pic.title }} </a></h4>
+<h4> {{ pic.title }}</h4>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
 </div>
 
@@ -33,7 +33,7 @@ permalink: /pictures/
 
 {% endfor %}
 
-{% assign even_odd = number_printed | modulo: 4 %}
+{% assign even_odd = number_printed | modulo: 3 %}
 {% if even_odd == 1 %}
 </div>
 {% endif %}
@@ -42,9 +42,6 @@ permalink: /pictures/
 </div>
 {% endif %}
 
-{% if even_odd == 3 %}
-</div>
-{% endif %}
 
 <!--
 #### Weekly Meeting (with Christmas Cakes!).  4 Dec 2020.
