@@ -9,10 +9,48 @@ permalink: /pictures/
 
 ## Meetings
 
+(Right-click *'view image'* to see a larger image.)
+{% assign number_printed = 0 %}
+{% for pic in site.data.pictures %}
+
+{% assign even_odd = number_printed | modulo: 4 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-3 clearfix">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd > 2 %}
+</div>
+{% endif %}
+
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 4 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% if even_odd == 2 %}
+</div>
+{% endif %}
+
+{% if even_odd == 3 %}
+</div>
+{% endif %}
+
+<!--
 #### Weekly Meeting (with Christmas Cakes!).  4 Dec 2020.
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/meeting20201204.jpeg" width="45%" >
 </figure>
+
 #### Ceremoney for the Ending of the 2020 Academic Year. 27 Nov 2020.
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/year_ending_2020.jpg" width="45%" >
@@ -23,4 +61,5 @@ permalink: /pictures/
 <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/meeting20191220.jpg" width="45%" >
 </figure>
+-->
 
