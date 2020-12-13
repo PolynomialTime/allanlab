@@ -10,7 +10,8 @@ permalink: /seminars/
 
 {% for sem in site.data.seminars %}
 
-  <strong>Title: {{ sem.title }}</strong><br/>
+  <strong>{{ sem.title }}</strong><br/>
+  <em>Speaker: {{ sem.speaker }}</em><br/>
   <em>Date: {{ sem.date }}</em><br/>
   <em>Abstract: {{ sem.abstract }} </em><br/><a href="{{ sem.slides }}"></a>
 
