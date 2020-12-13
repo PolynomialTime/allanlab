@@ -19,8 +19,8 @@ permalink: /pictures/
 {% endif %}
 
 <div class="col-sm-3 clearfix">
-<h5> {{ pic.title }}</h5>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
+<h5> {{ pic.title }}</h5>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
