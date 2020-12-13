@@ -55,8 +55,3 @@ We are an AI research group at the [University of Auckland](https://www.auckland
     <span class="sr-only">Next</span>
   </a>
 </div>
-
-
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/uoa-logo.png" style="width: 300px">
-</figure>
