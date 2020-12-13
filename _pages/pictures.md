@@ -20,6 +20,7 @@ permalink: /pictures/
 {% endif %}
 
 <div class="col-sm-3 clearfix">
+<h4> {{ pic.title }} </a></h4>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
 </div>
 
