@@ -7,8 +7,6 @@ permalink: /pictures/
 
 # Gallery
 
-## Meetings
-
 {% assign number_printed = 0 %}
 {% for pic in site.data.pictures %}
 
@@ -45,6 +43,7 @@ permalink: /pictures/
 {% if even_odd == 3 %}
 </div>
 {% endif %}
+
 
 
 <!--
