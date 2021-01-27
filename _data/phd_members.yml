@@ -91,3 +91,9 @@
   duration: 
   email: 
   bio: 
+
+- name: Yanni Tang
+  photo: yanni.png
+  duration: To start PhD
+  email:
+  bio: I received my master degree in computer science from Southwest University in 2019 and bachelor degree from Chongqing Normal University in 2016. My research interests include social network analysis, opinion dynamic, multi-agent systems and deep learning.
