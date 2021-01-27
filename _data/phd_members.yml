@@ -52,6 +52,12 @@
   email: qqi518@aucklanduni.ac.nz
   bio: I received my M.Sc. degree specialised in Communications and Signal Processing from Imperial College London in 2014, and my B.Eng. degree major in Electronic and Information Engineering from Dalian University of Technology in 2013. After that, I worked as a software engineer in Singapore for more than 4 years. I am now doing research in the field of Natural Language Processing, mainly on natural language understanding and generation. 
 
+- name: Yanni Tang
+  photo: yanni.png
+  duration: To start PhD
+  email:
+  bio: I received my master degree in computer science from Southwest University in 2019 and bachelor degree from Chongqing Normal University in 2016. My research interests include social network analysis, opinion dynamic, multi-agent systems and deep learning.
+
 - name: Yifei Wang
   photo: yifei.jpg
   duration: To start PhD
@@ -79,21 +85,14 @@
   email: mengxiao.zhang@auckland.ac.nz
   bio: I hold Bachelor’s degree of Management in Information Management and Information Systems and Master’s degree of management in Management Science and Engineering. My research interests are algorithmic mechanism design and economics of security and privacy. My current research focus is incentive mechanisms for data pricing and privacy preservation.
 
+- name: Xiaomeng Zheng
+  photo: bio-photo.jpg
+  duration: 
+  email: 
+  bio:
 
 - name: Zeyu Zhang
   photo: zeyu.jpg
   duration: 2018.09 -- Present
   email: alex.zhang@auckland.ac.nz
-  bio: I received my bachelor degree from Wuhan Institute of Technology and master degree from Wuhan University of Technology. I have been a lecturer in Guangdong University of Petrochemical Technology from 2015 to 2018. My research interests include social network analysis, especially network embedding.
-
-- name: Xiaomeng Zheng
-  photo: bio-photo.jpg
-  duration: 
-  email: 
-  bio: 
-
-- name: Yanni Tang
-  photo: yanni.png
-  duration: To start PhD
-  email:
-  bio: I received my master degree in computer science from Southwest University in 2019 and bachelor degree from Chongqing Normal University in 2016. My research interests include social network analysis, opinion dynamic, multi-agent systems and deep learning.
+  bio: I received my bachelor degree from Wuhan Institute of Technology and master degree from Wuhan University of Technology. I have been a lecturer in Guangdong University of Petrochemical Technology from 2015 to 2018. My research interests include social network analysis, especially network embedding. 
