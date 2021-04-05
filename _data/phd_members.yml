@@ -16,17 +16,17 @@
   homepage: https://www.yangchen.info
   bio: I received my First Class Honours degree in computer science from the University of Auckland in 2018, and my B.S. in computer science from Beijing Institute of Technology in 2017. My main research interest lies in reinforcement learning in structured and non-structured multi-agent systems. I aim to solve issues modeled as multi-agent systems from the learning and game-theoretical perspective. Along this line, my ultimate goal is to reinforce insights into rules of applying machine learning techniques in conjunction with game theory. Very recently, my focus moves to reinforcement learning in games with tons of agents.
 
-- name: Sajjad Hassanpour
-  photo: sajjad.jpg
-  duration: 
-  email: shas998@aucklanduni.ac.nz
-  bio: Sajjad Hassanpour is a Ph.D. student in Construction Engineering at the University of Auckland. He received a bachelor's degree in civil engineering at Iran University of Science and Technology in 2010, and his M.Sc. degree in transportation planning-at the Trabiat Modares University of Iran in 2012. During his Ph.D. in transportation planning, as he was interested in computer science, he started working on agent-based modeling and computer-based simulation models. Therefore, he started a new Ph.D. at the University of Auckland, focusing on agent-based building earthquake evacuation simulation. He is interested in pedestrian dynamics, multiagent systems, and machine learning.
-
 - name: Weidong Li
   photo: weidong.jpg
-  duration: To start PhD
+  duration: 2020 -- Present
   email: wli916@aucklanduni.ac.nz
   bio: Weidong received a degree of Bachelor of Science (Honours) with First Class Honours in Computer Science from the University of Auckland in 2019. She received a Bachelor of History from Capital Normal University in 2013. Her research interests include social network analysis, multi-agent systems and reinforcement learning.
+
+- name: Xiaoxuan Li
+  photo: xiaoyuan.jpg
+  duration: 2020 -- Present
+  email:
+  bio: I received my honours (First Class) degree in computer science from The University of Auckland in 2019 and received my bachelor’s degree from The Tianjin University of Technology in 2015. My primary scientific interests focus on exploring Natural Language Process (NLP) technology to facilitate Robotic Process Automation (RPA), in particular in discovering business process flow from natural language texts.
 
 - name: Yiping Liu
   photo: yiping.jpg
@@ -42,7 +42,7 @@
 
 - name: Lin Ni
   photo: linni.jpg
-  duration: To start PhD
+  duration: 2020 -- Present
   email: lni600@aucklanduni.ac.nz
   bio: Lin Ni, a practitioner and academic, is keen to turn AI technologies into concrete value. She received a B.E. degree from Northeastern University (China) in 2010, and a Postgraduate Diploma in Computer Science from the University of Auckland in 2017. She lands technologies and provides AI solutions to address the challenges in the industry, dabbled in Car Navigation systems, Recommendation systems, Multi-agent systems, and Natural Language Processing projects. Chatbots attract her focus in recent years, especially chatbots in the health and medical domain.
 
