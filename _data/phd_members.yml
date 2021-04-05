@@ -25,7 +25,6 @@
 - name: Xiaoxuan Li
   photo: xiaoxuan.jpg
   duration: 2020 -- Present
-  email:
   bio: I received my honours (First Class) degree in computer science from The University of Auckland in 2019 and received my bachelor’s degree from The Tianjin University of Technology in 2015. My primary scientific interests focus on exploring Natural Language Process (NLP) technology to facilitate Robotic Process Automation (RPA), in particular in discovering business process flow from natural language texts.
 
 - name: Yiping Liu
@@ -55,15 +54,12 @@
 - name: Yanni Tang
   photo: yanni.png
   duration: To start PhD
-  email:
   bio: I received my master degree in computer science from Southwest University in 2019 and bachelor degree from Chongqing Normal University in 2016. My research interests include social network analysis, opinion dynamic, multi-agent systems and deep learning.
 
 - name: Yifei Wang
   photo: yifei.jpg
-  duration: To start PhD
-  e-mail:
+  duration: 2020 -- Present
   bio: I received my master degree in computer science and technology from the Beihang University in 2020, and bachelor in software engineering from Dalian University of Technology in 2017. My main research interests are machine learning and deep learning, especially Graph-based models and Self-supervised models. Recently, I am focused on constructing hybrid models combining anchor-based graph and neural networks to solve real-world problems with Self-supervised learning.
-
 
 - name: Yupan Wang
   photo: yupan.jpg
@@ -78,18 +74,11 @@
   homepage: http://songyang.co/
   bio: I got my master degree of computer science from the University of Auckland in 2018 and got my bachlor degree from Nanjing University in 2016. My main research interests are machine learning, deep learning, graph-based neural network and computer vision. I also do reserach related to artificial intelligence in healthcare and software engineering.
 
-
 - name: Mengxiao Zhang
   photo: mengxiao.jpg
   duration: 2017.04 -- Present 
   email: mengxiao.zhang@auckland.ac.nz
   bio: I hold Bachelor’s degree of Management in Information Management and Information Systems and Master’s degree of management in Management Science and Engineering. My research interests are algorithmic mechanism design and economics of security and privacy. My current research focus is incentive mechanisms for data pricing and privacy preservation.
-
-- name: Xiaomeng Zheng
-  photo: bio-photo.jpg
-  duration: 
-  email: 
-  bio:
 
 - name: Zeyu Zhang
   photo: zeyu.jpg
