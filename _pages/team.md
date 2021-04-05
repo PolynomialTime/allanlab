@@ -105,7 +105,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Vistors
+## Visitors
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_visitors %}
