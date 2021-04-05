@@ -108,7 +108,7 @@ permalink: /team/
 ## Vistors
 
 {% assign number_printed = 0 %}
-{% for member in site.data.alumni_vistors %}
+{% for member in site.data.alumni_visitors %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
