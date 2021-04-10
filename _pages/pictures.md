@@ -17,15 +17,9 @@ permalink: /pictures/
 {% endif %}
 
 <div class="col-sm-3 clearfix">
-<table cellpadding="2" cellspacing="2">
-<tr>
-<td><img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" /></td>
-</tr>
-<tr>
-<td><h5> {{ pic.title }}</h5>
-{{ pic.date }} {{ pic.loc }}</td>
-</tr>
-</table>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
+<h5> {{ pic.title }}</h5>
+{{ pic.date }} {{ pic.loc }}
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
