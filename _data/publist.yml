@@ -1,3 +1,53 @@
+- title: "Generating Relevant and Coherent Dialogue Responses using Self-Separated Conditional Variational AutoEncoders"
+  image:
+  description: "ACL 2021: Annual Meeting of the Association for Computational Linguistics, 2021."
+  authors: B Sun, S Feng, Y Li, **J Liu**, K Li
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+- title: "Exchange, adopt, evolve: Modeling the spreading of opinions through cognition and interaction in a social network"
+  image:
+  description: "Information Sciences 551, 1-22 (IF: 5.524), 2021."
+  authors: **Y Tang**, **J Liu**, W Chen
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+- title: "On improving knowledge graph facilitated simple question answering system"
+  image:
+  description: "Neural Computing and Applications (IF: 5.858), 1-10, 2021."
+  authors: X Li, H Zang, X Yu, H Wu, Z Zhang, **J Liu**, M Wang
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+- title: "GACAN Graph Attention-Convolution-Attention Networks for Traffic Forecasting Based on Multi-granularity Time Series"
+  image:
+  description: "IJCNN 2021: International Joint Conference on Neural Network, 2021."
+  authors: S Zhang, H Zheng, H Su, B Yan, **J Liu**, **S Yang**
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+- title: "Social Capital Games as A Framework for Social Structural Pattern Emergence"
+  image:
+  description: "ASONAM 2020 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining, 2020."
+  authors: **Y Chen**, **J Liu**
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
 - title: "Who is Driving? Event-Driven Driver Identification and Impostor Detection Through Support Vector Machine"
   image:
   description: "IEEE Sensors Journal, Volume: 20, Issue: 12, June 15, 2020. (IF:3.076)"
