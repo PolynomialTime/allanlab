@@ -1,3 +1,13 @@
+- title: "PPD: A Preprocessing-based Defense Against Graph Adversarial Attack"
+  image:
+  description: "21st International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2022)"
+  authors: W. Liu, J. Liu, Y. Liu, Z. Zhang
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
 - title: "Individual-Level Inverse Reinforcement Learning for Mean Field Games"
   image:
   description: "21st International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2022)"
