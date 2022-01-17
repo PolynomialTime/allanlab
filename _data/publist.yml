@@ -1,3 +1,13 @@
+- title: "Interconnected Neural Linear Contextual Bandits with UCB Exploration"
+  image:
+  description: "26th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD-22)"
+  authors: Yang Chen, Miao Xie, Jiamou Liu, Kaiqi Zhao
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
 - title: "PPD: A Preprocessing-based Defense Against Graph Adversarial Attack"
   image:
   description: "21st International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2022)"
