@@ -74,11 +74,17 @@
   homepage: http://songyang.co/
   bio: I got my master degree of computer science from the University of Auckland in 2018 and got my bachlor degree from Nanjing University in 2016. My main research interests are machine learning, deep learning, graph-based neural network and computer vision. I also do reserach related to artificial intelligence in healthcare and software engineering.
 
+- name: Libo Zhang
+  photo: libo.jpg
+  duration: 2022.02 -- Present 
+  email: lzha797@aucklanduni.ac.nz
+  bio: I received a degree of Master of Professional Studies with First Class Honours in Data Science, the Graduate Diploma in Science from the University of Auckland in 2021, and the Bachelor degree from the Southwest University in 2020. My personal research interests lie in the reinforcement learning and the multi-agent systems. In detail, I am interested in the challenges in both cooperative and non-cooperative settings in adapting reinforcement learning to multi-agent systems.
+
 - name: Mengxiao Zhang
   photo: mengxiao.jpg
   duration: 2017.04 -- Present 
   email: mengxiao.zhang@auckland.ac.nz
-  bio: I hold Bachelor’s degree of Management in Information Management and Information Systems and Master’s degree of management in Management Science and Engineering. My research interests are algorithmic mechanism design and economics of security and privacy. My current research focus is incentive mechanisms for data pricing and privacy preservation.
+  bio: I hold Bachelor`s degree of Management in Information Management and Information Systems and Master`s degree of management in Management Science and Engineering. My research interests are algorithmic mechanism design and economics of security and privacy. My current research focus is incentive mechanisms for data pricing and privacy preservation.
 
 - name: Zeyu Zhang
   photo: zeyu.jpg
