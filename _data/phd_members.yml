@@ -16,6 +16,12 @@
   homepage: https://www.yangchen.info
   bio: I received my First Class Honours degree in computer science from the University of Auckland in 2018, and my B.S. in computer science from Beijing Institute of Technology in 2017. My main research interest lies in reinforcement learning in structured and non-structured multi-agent systems. I aim to solve issues modeled as multi-agent systems from the learning and game-theoretical perspective. Along this line, my ultimate goal is to reinforce insights into rules of applying machine learning techniques in conjunction with game theory. Very recently, my focus moves to reinforcement learning in games with tons of agents.
 
+- name: Pengqian Han
+  photo: pengqian.jpg
+  duration: 2021.10 -- Present
+  email: phan635@aucklanduni.ac.nz
+  bio: I got my master's degree in aeronautical engineering from Beihang University in 2018 and got my bachelor's degree from Hebei University of Technology in 2014. I have been an engineer in China Mobile Group Tianjin Company from 2018 to 2021. My main research interests are machine learning, deep learning, and graph-based neural network.
+
 - name: Weidong Li
   photo: weidong.jpg
   duration: 2020 -- Present
@@ -25,7 +31,7 @@
 - name: Xiaoxuan Li
   photo: xiaoxuan.jpg
   duration: 2020 -- Present
-  bio: I received my honours (First Class) degree in computer science from The University of Auckland in 2019 and received my bachelor’s degree from The Tianjin University of Technology in 2015. My primary scientific interests focus on exploring Natural Language Process (NLP) technology to facilitate Robotic Process Automation (RPA), in particular in discovering business process flow from natural language texts.
+  bio: I received my honours (First Class) degree in computer science from The University of Auckland in 2019 and received my bachelor's degree from The Tianjin University of Technology in 2015. My primary scientific interests focus on exploring Natural Language Process (NLP) technology to facilitate Robotic Process Automation (RPA), in particular in discovering business process flow from natural language texts.
 
 - name: Yiping Liu
   photo: yiping.jpg
