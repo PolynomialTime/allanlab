@@ -1,4 +1,13 @@
-- date: January 17, 2021
+- date: April 11, 2022
+  headline: Yang Chen passed his PhD defence.
+
+- date: April 8, 2022
+  headline: "Text-based Risky Decision-Making Guided by Fuzzy Trace Theory' (Jaron Mar, Jiamou Liu) has been accepted for Findings of NAACL 2022"
+
+- date: April 4, 2022
+  headline: "Trajectory Flow Map Enhanced Transformer for Next POI Recommendation' (Song Yang, Jiamou Liu, Kaiqi Zhao) has been accepted for presentation at SIGIR 2022"
+
+- date: January 17, 2022
   headline: "The paper 'Interconnected Neural Linear Contextual Bandits with UCB Exploration' (Yang Chen, Miao Xie, Jiamou Liu, Kaiqi Zhao) has been accepted for presentation at the 26th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD-22)"
 
 - date: December 21, 2021
@@ -6,6 +15,9 @@
 
 - date: December 21, 2021
   headline: "The paper 'Individual-Level Inverse Reinforcement Learning for Mean Field Games' (Yang Chen, Libo Zhang, Jiamou Liu, Shuyue Hu), has been accepted for publication as a full paper and for oral presentation at the 21st International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2022)."
+
+- date: November 30, 2021
+  headline: Mengxiao Zhang passed her PhD defence.
 
 - date: November 13, 2021
   headline: "the paper 'DeepQR: Neural-based Quality Ratings for Learnersourced Multiple-Choice Questions' (Ni, Bao, Li, Qi, Denny, Warren, Witbrock, Liu), has been accepted for presentation at the Twelfth AAAI Symposium on Educational Advances in Artificial Intelligence (EAAI-22)."

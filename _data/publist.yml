@@ -1,3 +1,23 @@
+- title: "Text-based Risky Decision-Making Guided by Fuzzy Trace Theory"
+  image:
+  description: "Findings of NAACL 2022"
+  authors: Jaron Mar, Jiamou Liu
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+- title: "Trajectory Flow Map Enhanced Transformer for Next POI Recommendation"
+  image:
+  description: "SIGIR 2022"
+  authors: Song Yang, Jiamou Liu, Kaiqi Zhao
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
 - title: "Interconnected Neural Linear Contextual Bandits with UCB Exploration"
   image:
   description: "26th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD-22)"
