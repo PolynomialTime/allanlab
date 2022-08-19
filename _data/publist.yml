@@ -1,3 +1,13 @@
+- title: "Multi-Step Deductive Reasoning Over Natural Language: An Empirical Study on Out-of-Distribution Generalisation"
+  image:
+  description: "Neural-Symbolic Learning and Reasoning (NeSy2022)"
+  authors: Qiming Bao, Alex Yuxuan Peng, Tim Hartill, Neset Tan, Zhenyun Deng, Michael Witbrock, Jiamou Liu
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
 - title: "Text-based Risky Decision-Making Guided by Fuzzy Trace Theory"
   image:
   description: "Findings of NAACL 2022"
