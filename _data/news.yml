@@ -1,9 +1,8 @@
-<<<<<<< HEAD
 - date: June 16, 2022
   headline: "Qiming Bao's paper 'Multi-Step Deductive Reasoning Over Natural Language: An Empirical Study on Out-of-Distribution Generalisation' has been accepted at NeSy2022 (Neural-Symbolic Learning and Reasoning), which is part of IJCLR conference. NeSy is a major venue for neural-symbolic computing and is the annual meeting of the Neural-Symbolic Learning and Reasoning Association."
 
 - date: January 17, 2021
-=======
+
 - date: April 11, 2022
   headline: Yang Chen passed his PhD defence.
 
@@ -14,7 +13,6 @@
   headline: "Trajectory Flow Map Enhanced Transformer for Next POI Recommendation' (Song Yang, Jiamou Liu, Kaiqi Zhao) has been accepted for presentation at SIGIR 2022"
 
 - date: January 17, 2022
->>>>>>> 83ddd0dad230e041cc0214ada60c95e8f0031437
   headline: "The paper 'Interconnected Neural Linear Contextual Bandits with UCB Exploration' (Yang Chen, Miao Xie, Jiamou Liu, Kaiqi Zhao) has been accepted for presentation at the 26th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD-22)"
 
 - date: December 21, 2021
