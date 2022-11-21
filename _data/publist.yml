@@ -1,3 +1,33 @@
+- title: "USER: unsupervised robust learning for GNN)"
+  image:
+  description: "Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI-23)"
+  authors: Yifei Wang, Yupan Wang, Yang Song, Zeyu Zhang 
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+- title: "MSDC: non-intrusive load monitoring with a dual-CNN model"
+  image:
+  description: "Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI-23)"
+  authors: Jialing He, Jiamou Liu, Zijian Zhang, Yang Chen, Yiwei Liu, Bakh Khoussainov, Liehuang Zhu
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+- title: "Multi-Step Deductive Reasoning Over Natural Language: An Empirical Study on Out-of-Distribution Generalisation"
+  image:
+  description: "Neural-Symbolic Learning and Reasoning (NeSy2022)"
+  authors: Qiming Bao, Alex Yuxuan Peng, Tim Hartill, Neset Tan, Zhenyun Deng, Michael Witbrock, Jiamou Liu 
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
 - title: "Text-based Risky Decision-Making Guided by Fuzzy Trace Theory"
   image:
   description: "Findings of NAACL 2022"
