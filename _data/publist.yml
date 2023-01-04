@@ -1,3 +1,35 @@
+- title: "Adversarial Inverse Reinforcement Learning for Mean Field Games"
+  image:
+  description: "22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023)"
+  authors: Yang Chen, Libo Zhang, Jiamou Liu and Michael Witbrock 
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+
+- title: "Learning Density-Based Correlated Equilibria for Markov Games"
+  image:
+  description: "22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023)"
+  authors: Libo Zhang, Yang Chen, Toru Takisaka, Bakh Khoussainov, Michael Witbrock and Jiamou Liu 
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+
+- title: "Differentially Private Diffusion Auction: The Single-unit Case"
+  image:
+  description: "22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023)"
+  authors: Fengjuan Jia, Mengxiao Zhang, Jiamou Liu and Bakh Khoussainov 
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
 - title: "USER: unsupervised robust learning for GNN"
   image:
   description: "Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI-23)"
