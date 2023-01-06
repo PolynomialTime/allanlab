@@ -19,7 +19,7 @@ permalink: /pictures/
 <div class="col-sm-3 clearfix">
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
 <p><br> {{ pic.title }}
-{{ pic.date }} {{ pic.loc }} </p>
+<br> {{ pic.date }} {{ pic.loc }} </p>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
