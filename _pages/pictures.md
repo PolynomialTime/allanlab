@@ -20,10 +20,10 @@ permalink: /pictures/
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="95%" style="float: left" />
 <table>
   <tr>
-    <th><h3> {{ pic.title }}</h3></th>
+    <td><h5> {{ pic.title }}</h5></td>
   </tr>
   <tr>
-    <th><h5>{{ pic.date }} {{ pic.loc }}<h5></th>
+    <td><h5>{{ pic.date }} {{ pic.loc }}<h5></td>
   </tr>
 </table>
 </div>
