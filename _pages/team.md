@@ -105,7 +105,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Graduated PhD
+## Former PhD
 
 {% assign number_printed = 0 %}
 {% for member in site.data.graduated_phd %}
