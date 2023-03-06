@@ -1,3 +1,23 @@
+- title: "RSGNN: A Model-agnostic Approach for Enhancing the Robustness of Signed Graph Neural Networks"
+  image:
+  description: "Web Conference 2023"
+  authors: Zeyu Zhang, Jiamou Liu, Xianda Zheng, Yifei Wang, Pengqian Han, Wang Yupan, Kaiqi Zhao, Zijian Zhang
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+- title: "A Survey of Data Pricing for Data Marketplaces"
+  image:
+  description: "IEEE Transactions on Big Data"
+  authors: Mengxiao Zhang, Jiamou Liu, Fernando Beltran
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
 - title: "Adversarial Inverse Reinforcement Learning for Mean Field Games"
   image:
   description: "22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023)"
