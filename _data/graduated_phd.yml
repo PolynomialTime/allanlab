@@ -1,6 +1,6 @@
 - name: Jaron Mar
   photo: jaron.jpg
-  duration: 2018. 08 -- Present
+  duration: 2018. 08 -- 2023. 04
   email: jmar914@aucklanduni.ac.nz
   bio: I received both my Honours (First Class) and Bachelor of Science Degrees in Computer Science from The University of Auckland. My research interests lie broadly in Natural Language Processing with my recent research focusing on the intersection between Psychology, Artificial Intelligence and Natural Language Processing.
 
@@ -8,7 +8,7 @@
 
 - name: Yang Chen
   photo: yangchen.jpg
-  duration: 2018. 11 -- 2022.04
+  duration: 2018. 11 -- 2022. 04
   email: yang.chen@auckland.ac.nz
   homepage: https://www.yangchen.info
   bio: I am currently a research fellow with the School of Computer Science, [The University of Auckland](https://www.auckland.ac.nz/). 
@@ -20,6 +20,6 @@
 
 - name: Mengxiao Zhang
   photo: mengxiao.jpg
-  duration: 2017.04 -- 2021.11 
+  duration: 2017. 04 -- 2021. 11 
   email: mengxiao.zhang@auckland.ac.nz
   bio: I hold Bachelor's degree of Management in Information Management and Information Systems and Master's degree of management in Management Science and Engineering. My research interests are algorithmic mechanism design and economics of security and privacy. My current research focus is incentive mechanisms for data pricing and privacy preservation.
