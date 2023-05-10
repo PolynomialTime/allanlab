@@ -1,6 +1,33 @@
+- title: "Incentivising Diffusion while Preserving Differential Privacy"
+  image:
+  description: "Uncertainty in Artificial Intelligence (UAI) 2023"
+  authors: Mengxiao Zhang, Fengjuan Jia, Jiamou Liu, Bakhadyr Khoussainov
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+- title: "Contrastive Learning for Signed Bipartite Graphs"
+  image:
+  description: "Special Interest Group on Information Retrieval (SIGIR) 2023"
+  authors: Zeyu Zhang, Jiamou Liu, Kaiqi Zhao, Song Yang, Xianda Zheng, Yifei Wang
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+- title: "Dynamic Prompt-tuning Method for Data Augmentation with Associated Knowledge"
+  image:
+  description: "International Conference on Learning Representations (ICLR) 2023"
+  authors: Qianqian Qi, Qiming Bao, Alex Peng, Jiamou Liu, Michael Witbrock
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
 - title: "RSGNN: A Model-agnostic Approach for Enhancing the Robustness of Signed Graph Neural Networks"
   image:
-  description: "Web Conference 2023"
+  description: "The Web Conference (WWW) 2023"
   authors: Zeyu Zhang, Jiamou Liu, Xianda Zheng, Yifei Wang, Pengqian Han, Wang Yupan, Kaiqi Zhao, Zijian Zhang
   link:
     url: 
