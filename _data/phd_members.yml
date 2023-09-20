@@ -51,6 +51,7 @@
 
 - name: Yifei Wang
   photo: yifei.jpg
+  homepage: https://profiles.auckland.ac.nz/wany107
   duration: 2020 -- Present
   bio: I received my master degree in computer science and technology from the Beihang University in 2020, and bachelor in software engineering from Dalian University of Technology in 2017. My main research interests are machine learning and deep learning, especially Graph-based models and Self-supervised models. Recently, I am focused on constructing hybrid models combining anchor-based graph and neural networks to solve real-world problems with Self-supervised learning.
 
@@ -71,6 +72,7 @@
   photo: libo.jpg
   duration: 2022.02 -- Present 
   email: lzha797@aucklanduni.ac.nz
+  homepage: https://a71uuy.github.io/
   bio: I received a degree of Master of Professional Studies with First Class Honours in Data Science, the Graduate Diploma in Science from the University of Auckland in 2021, and the Bachelor degree from the Southwest University in 2020. My personal research interests lie in the reinforcement learning and the multi-agent systems. In detail, I am interested in the challenges in both cooperative and non-cooperative settings in adapting reinforcement learning to multi-agent systems.
 
 - name: Xianda Zheng
