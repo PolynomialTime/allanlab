@@ -5,6 +5,12 @@
   email: sden118@aucklanduni.ac.nz
   homepage: https://profiles.auckland.ac.nz/shuangyan-deng
 
+- name: Zhirui Zeng
+  photo: zhirui.jpg
+  duration: 2024.09 -- Present
+  bio: I earned my Bachelor's and Master's degrees from Chongqing University in 2022 and 2025, respectively. My research focuses on the privacy and security of large language models (LLMs) and retrieval-augmented generation (RAG) systems, exploring techniques to enhance robustness, mitigate vulnerabilities, and ensure trustworthy AI deployment.
+  email: zzen859@aucklanduni.ac.nz
+
 - name: Zhongsheng Wang
   photo: Zhongsheng.jpg
   duration: 2025.04 -- Present
