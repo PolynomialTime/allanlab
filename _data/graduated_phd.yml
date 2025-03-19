@@ -31,3 +31,27 @@
   duration: 2017. 04 -- 2021. 11 
   email: mengxiao.zhang@auckland.ac.nz
   bio: I hold Bachelor's degree of Management in Information Management and Information Systems and Master's degree of management in Management Science and Engineering. My research interests are algorithmic mechanism design and economics of security and privacy. My current research focus is incentive mechanisms for data pricing and privacy preservation.
+
+- name: Qianqian Qi
+  photo: qianqian.png
+  duration: 2019.9 -- 2024.12
+  email: qqi518@aucklanduni.ac.nz
+  bio: I received my M.Sc. degree specialised in Communications and Signal Processing from Imperial College London in 2014, and my B.Eng. degree major in Electronic and Information Engineering from Dalian University of Technology in 2013. After that, I worked as a software engineer in Singapore for more than 4 years. I am now doing research in the field of Natural Language Processing, mainly on natural language understanding and generation. 
+
+- name: Qiming Bao
+  photo: bao.jpg
+  duration: 2020.02 -- 2024.12
+  bio: Qiming received a Bachelor of Science (Honours) degree with First Class Honours in Computer Science from the University of Auckland in 2019. His research interests lie in the intersection between natural language processing and question answering. Recently his research mainly focuses on machine reasoning. His main research activities involve natural language understanding, natural language inference, and soft reasoning; topics of interest include problem decomposition, knowledge acquisition, explanation, entailment, and generate QA. He is also interested in the graph-based neural network.
+  email: qbao775@aucklanduni.ac.nz
+  homepage: https://unidirectory.auckland.ac.nz/profile/qbao775
+  number_educ: 3
+  education1: First-class Honours, The University of Auckland
+  education2: Bachelor of Science in Computer and Information Science, Auckland University of Technology, NZ
+  education3: Bachelor of Science in Computer Science & Bachelor of Law in Intellectual Property, China Jiliang University, China
+
+- name: Song Yang
+  photo: songyang.jpg
+  duration: 2019.12 -- 2024.05
+  email: syan382@aucklanduni.ac.nz
+  homepage: http://songyang.co/
+  bio: I got my master degree of computer science from the University of Auckland in 2018 and got my bachlor degree from Nanjing University in 2016. My main research interests are machine learning, deep learning, graph-based neural network and computer vision. I also do reserach related to artificial intelligence in healthcare and software engineering.
