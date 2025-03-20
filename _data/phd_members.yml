@@ -1,21 +1,16 @@
-- name: Shuangyan Deng
-  photo: shuangyan.jpg
-  duration: 2024.02 -- Present
-  bio: I am a Ph.D. student, joint supervised by Associate Professor Jiamou Liu and Associate Professor Ciprian Doru Giurcaneanu at the University of Auckland. Prior to my doctoral studies, I earned a Bachelor’s degree in Finance from Anhui University in China and a Master of Science from the University of Leeds. My research focuses on the application of AI in the financial domain, with a particular emphasis on financial mathematical reasoning.
-  email: sden118@aucklanduni.ac.nz
-  homepage: https://profiles.auckland.ac.nz/shuangyan-deng
+- name: Haoyuan Li
+  photo: haoyuan.jpg
+  duration: To Start PhD
+  email: hli962@aucklanduni.ac.nz
+  bio: I received my master's degree in Computer Science from the University of Auckland and my bachelor's degree in Computer Science from Shandong University of Technology. In 2022, I worked as a psychological counselor, which inspired my interest in applying AI technologies to real-world healthcare challenges. My research interests focus on AI for healthcare, particularly leveraging machine learning and deep learning techniques to support mental health and clinical decision-making. I am also interested in the intersection of Web3 and cryptocurrency technologies, exploring how decentralized systems can reshape digital identity and finance. Additionally, I am passionate about the practical applications of LLMs in areas such as medical consultation, intelligent assistants, and knowledge-driven services.
 
-- name: Zhirui Zeng
-  photo: zhirui.jpg
-  duration: 2024.09 -- Present
-  bio: I earned my Bachelor's and Master's degrees from Chongqing University in 2022 and 2025, respectively. My research focuses on the privacy and security of large language models (LLMs) and retrieval-augmented generation (RAG) systems, exploring techniques to enhance robustness, mitigate vulnerabilities, and ensure trustworthy AI deployment.
-  email: zzen859@aucklanduni.ac.nz
 
 - name: Sijing Yin
   photo: sijing.jpg
   duration: To Start PhD
   bio: I earned my undergraduate degree in Computer Science and Technology from the School of Computer Science and Technology and the School of Software at Southwest University in 2023. Subsequently, I completed my master’s degree in Data Science at the School of Computer Science, University of Auckland, in 2024. My research focuses on AI-driven generation and the application of LLMs in education.
   email: syin565@aucklanduni.ac.nz
+
 
 - name: Zhongsheng Wang
   photo: Zhongsheng.jpg
@@ -24,11 +19,18 @@
   bio: I received my undergraduate degree in Computer Science and Technology from the School of Computer Science and Technology, School of Software, Southwest University in 2023 and master degree in Data Science at the School of Computer Science, University of Auckland in 2024. My research direction is Trustworthy LLM Agents Based on Dynamic Multimodal Retrieval-Augmented Generation.
   homepage: https://jkwzs.cn
 
-- name: Haoyuan Li
-  photo: haoyuan.jpg
-  duration: To Start PhD
-  email: hli962@aucklanduni.ac.nz
-  bio: I received my master's degree in Computer Science from the University of Auckland and my bachelor's degree in Computer Science from Shandong University of Technology. In 2022, I worked as a psychological counselor, which inspired my interest in applying AI technologies to real-world healthcare challenges. My research interests focus on AI for healthcare, particularly leveraging machine learning and deep learning techniques to support mental health and clinical decision-making. I am also interested in the intersection of Web3 and cryptocurrency technologies, exploring how decentralized systems can reshape digital identity and finance. Additionally, I am passionate about the practical applications of LLMs in areas such as medical consultation, intelligent assistants, and knowledge-driven services.
+- name: Zhirui Zeng
+  photo: zhirui.jpg
+  duration: 2024.09 -- Present
+  bio: I earned my Bachelor's and Master's degrees from Chongqing University in 2022 and 2025, respectively. My research focuses on the privacy and security of large language models (LLMs) and retrieval-augmented generation (RAG) systems, exploring techniques to enhance robustness, mitigate vulnerabilities, and ensure trustworthy AI deployment.
+  email: zzen859@aucklanduni.ac.nz
+
+- name: Shuangyan Deng
+  photo: shuangyan.jpg
+  duration: 2024.02 -- Present
+  bio: I am a Ph.D. student, joint supervised by Associate Professor Jiamou Liu and Associate Professor Ciprian Doru Giurcaneanu at the University of Auckland. Prior to my doctoral studies, I earned a Bachelor’s degree in Finance from Anhui University in China and a Master of Science from the University of Leeds. My research focuses on the application of AI in the financial domain, with a particular emphasis on financial mathematical reasoning.
+  email: sden118@aucklanduni.ac.nz
+  homepage: https://profiles.auckland.ac.nz/shuangyan-deng
 
 
 - name: Pengqian Han
