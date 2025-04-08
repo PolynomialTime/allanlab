@@ -1,13 +1,37 @@
-- name: Qiming Bao
-  photo: bao.jpg
-  duration: 2020.02 -- Present
-  bio: Qiming received a Bachelor of Science (Honours) degree with First Class Honours in Computer Science from the University of Auckland in 2019. His research interests lie in the intersection between natural language processing and question answering. Recently his research mainly focuses on machine reasoning. His main research activities involve natural language understanding, natural language inference, and soft reasoning; topics of interest include problem decomposition, knowledge acquisition, explanation, entailment, and generate QA. He is also interested in the graph-based neural network.
-  email: qbao775@aucklanduni.ac.nz
-  homepage: https://unidirectory.auckland.ac.nz/profile/qbao775
-  number_educ: 3
-  education1: First-class Honours, The University of Auckland
-  education2: Bachelor of Science in Computer and Information Science, Auckland University of Technology, NZ
-  education3: Bachelor of Science in Computer Science & Bachelor of Law in Intellectual Property, China Jiliang University, China
+- name: Haoyuan Li
+  photo: haoyuan.jpg
+  duration: To Start PhD
+  email: hli962@aucklanduni.ac.nz
+  bio: I received my master's degree in Computer Science from the University of Auckland and my bachelor's degree in Computer Science from Shandong University of Technology. In 2022, I worked as a psychological counselor, which inspired my interest in applying AI technologies to real-world healthcare challenges. My research interests focus on AI for healthcare, particularly leveraging machine learning and deep learning techniques to support mental health and clinical decision-making. I am also interested in the intersection of Web3 and cryptocurrency technologies, exploring how decentralized systems can reshape digital identity and finance. Additionally, I am passionate about the practical applications of LLMs in areas such as medical consultation, intelligent assistants, and knowledge-driven services.
+
+
+- name: Sijing Yin
+  photo: sijing.jpg
+  duration: To Start PhD
+  bio: I earned my undergraduate degree in Computer Science and Technology from the School of Computer Science and Technology and the School of Software at Southwest University in 2023. Subsequently, I completed my master’s degree in Data Science at the School of Computer Science, University of Auckland, in 2024. My research focuses on AI-driven generation and the application of LLMs in education.
+  email: syin565@aucklanduni.ac.nz
+
+
+- name: Zhongsheng Wang
+  photo: Zhongsheng.jpg
+  duration: 2025.04 -- Present
+  email: zwan516@aucklanduni.ac.nz
+  bio: I received my undergraduate degree in Computer Science and Technology from the School of Computer Science and Technology, School of Software, Southwest University in 2023 and master degree in Data Science at the School of Computer Science, University of Auckland in 2024. My research direction is Trustworthy LLM Agents Based on Dynamic Multimodal Retrieval-Augmented Generation.
+  homepage: https://jkwzs.cn
+
+- name: Zhirui Zeng
+  photo: zhirui.jpg
+  duration: 2024.09 -- Present
+  bio: I earned my Bachelor's and Master's degrees from Chongqing University in 2022 and 2025, respectively. My research focuses on the privacy and security of large language models (LLMs) and retrieval-augmented generation (RAG) systems, exploring techniques to enhance robustness, mitigate vulnerabilities, and ensure trustworthy AI deployment.
+  email: zzen859@aucklanduni.ac.nz
+
+- name: Shuangyan Deng
+  photo: shuangyan.jpg
+  duration: 2024.02 -- Present
+  bio: I am a Ph.D. student, joint supervised by Associate Professor Jiamou Liu and Associate Professor Ciprian Doru Giurcaneanu at the University of Auckland. Prior to my doctoral studies, I earned a Bachelor’s degree in Finance from Anhui University in China and a Master of Science from the University of Leeds. My research focuses on the application of AI in the financial domain, with a particular emphasis on financial mathematical reasoning.
+  email: sden118@aucklanduni.ac.nz
+  homepage: https://profiles.auckland.ac.nz/shuangyan-deng
+
 
 - name: Pengqian Han
   photo: pengqian.jpg
@@ -38,35 +62,11 @@
   email: lni600@aucklanduni.ac.nz
   bio: Lin Ni, a practitioner and academic, is keen to turn AI technologies into concrete value. She received a B.E. degree from Northeastern University (China) in 2010, and a Postgraduate Diploma in Computer Science from the University of Auckland in 2017. She lands technologies and provides AI solutions to address the challenges in the industry, dabbled in Car Navigation systems, Recommendation systems, Multi-agent systems, and Natural Language Processing projects. Chatbots attract her focus in recent years, especially chatbots in the health and medical domain.
 
-- name: Qianqian Qi
-  photo: qianqian.png
-  duration: 2019.9 -- Present
-  email: qqi518@aucklanduni.ac.nz
-  bio: I received my M.Sc. degree specialised in Communications and Signal Processing from Imperial College London in 2014, and my B.Eng. degree major in Electronic and Information Engineering from Dalian University of Technology in 2013. After that, I worked as a software engineer in Singapore for more than 4 years. I am now doing research in the field of Natural Language Processing, mainly on natural language understanding and generation. 
-
-- name: Yanni Tang
-  photo: yanni.png
-  duration: To start PhD
-  bio: I received my master degree in computer science from Southwest University in 2019 and bachelor degree from Chongqing Normal University in 2016. My research interests include social network analysis, opinion dynamic, multi-agent systems and deep learning.
-
 - name: Yifei Wang
   photo: yifei.jpg
   homepage: https://profiles.auckland.ac.nz/wany107
   duration: 2020 -- Present
   bio: I received my master degree in computer science and technology from the Beihang University in 2020, and bachelor in software engineering from Dalian University of Technology in 2017. My main research interests are machine learning and deep learning, especially Graph-based models and Self-supervised models. Recently, I am focused on constructing hybrid models combining anchor-based graph and neural networks to solve real-world problems with Self-supervised learning.
-
-- name: Yupan Wang
-  photo: yupan.jpg
-  duration: 2019.12 -- Present
-  email: ywan980@aucklanduni.ac.nz
-  bio: I received both my Honours (First Class) and Bachelor of Science Degrees in Computer Science from The University of Auckland. My main research interest lies in network structures, optimization problems, and discrete space evaluation and optimization. Recently, I am focused on core-periphery network structures.
-
-- name: Song Yang
-  photo: songyang.jpg
-  duration: 2019.12 -- Present
-  email: syan382@aucklanduni.ac.nz
-  homepage: http://songyang.co/
-  bio: I got my master degree of computer science from the University of Auckland in 2018 and got my bachlor degree from Nanjing University in 2016. My main research interests are machine learning, deep learning, graph-based neural network and computer vision. I also do reserach related to artificial intelligence in healthcare and software engineering.
 
 - name: Libo Zhang
   photo: libo.jpg
@@ -80,9 +80,3 @@
   duration: 2022.10 -- Present 
   email: xzhe162@aucklanduni.ac.nz
   bio: Xianda received M.Eng degree in Computer Science from Southeast Univercity in 2021 and received B.Eng degree in Computer Science from Changchun University of Science and Technology in 2018.  His research interests include Knowledge Graph representation learning and reasoning.
-
-- name: Zijian Huang
-  photo: zijianH.jpg
-  duration: 2023.04 -- Present
-  email: zhua764@aucklanduni.ac.nz
-  bio: I received both my Master of Science (First Class) and Bachelor of Science degrees in computer science from the University of Auckland. My primary research interests include knowledge graph representation learning, multi-hop query reasoning over knowledge graphs, and natural language question answering.
