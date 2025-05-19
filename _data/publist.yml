@@ -21,7 +21,7 @@
 - title: "Learning Verified Safe Neural Network Controllers for Multi-Agent Path Finding"
   image:
   description: "Proceedings of the AAAI Conference on Artificial Intelligence (2025)"
-  authors: Mingyue Zhang, Nianyu Li, Yi Chen, Jialong Li, Xiao-Yi Zhang, Hengjun Zhao, Jiamou Liu, Wu Chen
+  authors: Mingyue Zhang, Nianyu Li, Yi Chen, Jialong Li, Xiao-Yi Zhang, Hengjun Zhao, **Jiamou Liu**, Wu Chen
   link:
     url: 
     display: 
@@ -32,7 +32,7 @@
 - title: "Zero-Knowledge Proof-Based Verifiable Decentralized Machine Learning in Communication Network: A Comprehensive Survey"
   image:
   description: "IEEE Communications Surveys & Tutorials (2025)"
-  authors: Zhibo Xing, Zijian Zhang, Ziang Zhang, Zhen Li, Meng Li, Jiamou Liu, Zongyang Zhang, Yi Zhao, Qi Sun, Liehuang Zhu, Giovanni Russello
+  authors: Zhibo Xing, Zijian Zhang, Ziang Zhang, Zhen Li, Meng Li, **Jiamou Liu**, Zongyang Zhang, Yi Zhao, Qi Sun, Liehuang Zhu, Giovanni Russello
   link:
     url: 
     display: 
@@ -43,7 +43,7 @@
 - title: "Integrating zero-knowledge proofs into federated learning: a path to on-chain verifiable and privacy-preserving federated learning frameworks"
   image:
   description: "International Journal of Web Information Systems (2025)"
-  authors: Chunlei Li, Zhibo Xing, Jiamou Liu, Giovanni Russello, Zhen Li, Yan Wu, Meng Li, Muhammad Rizwan Asghar
+  authors: Chunlei Li, Zhibo Xing, **Jiamou Liu**, Giovanni Russello, Zhen Li, Yan Wu, Meng Li, Muhammad Rizwan Asghar
   link:
     url: 
     display: 
@@ -54,7 +54,7 @@
 - title: "Upper Limb Motor Sequence Analysis: From Isolated to Sequential"
   image:
   description: "IEEE Transactions on Industrial Informatics 2025"
-  authors: Tian-Yu Xiang, Xiao-Hu Zhou, Mei-Jiang Gui, Xiao-Liang Xie, Shi-Qi Liu, Hao Li, De-Xing Huang, Jia-Xing Wang, Yong-Qiang Tang, Jia-Mou Liu, Zeng-Guang Hou
+  authors: Tian-Yu Xiang, Xiao-Hu Zhou, Mei-Jiang Gui, Xiao-Liang Xie, Shi-Qi Liu, Hao Li, De-Xing Huang, Jia-Xing Wang, Yong-Qiang Tang, **Jia-Mou Liu**, Zeng-Guang Hou
   link:
     url: 
     display: 
@@ -64,7 +64,7 @@
 - title: "Optimizing Resource Distribution Towards Energy Justice in Resilient Smart Grids"
   image:
   description: "Principle and Practice of Data and Knowledge Acquisition Workshop (PAKW) 2024"
-  authors: Libo Zhang, Yuly Wu, Weidong Li, Song Yang, Yang Chen, Kaiqi Zhao, Jiamou Liu
+  authors: Libo Zhang, Yuly Wu, Weidong Li, Song Yang, Yang Chen, Kaiqi Zhao, **Jiamou Liu**
   link:
     url: 
     display: 
@@ -74,7 +74,7 @@
 - title: "Optimizing Resource Distribution Towards Energy Justice in Resilient Smart Grids"
   image:
   description: "Principle and Practice of Data and Knowledge Acquisition Workshop (PAKW) 2024"
-  authors: Libo Zhang, Yuly Wu, Weidong Li, Song Yang, Yang Chen, Kaiqi Zhao, Jiamou Liu
+  authors: Libo Zhang, Yuly Wu, Weidong Li, Song Yang, Yang Chen, Kaiqi Zhao, **Jiamou Liu**
   link:
     url: 
     display: 
@@ -84,7 +84,7 @@
 - title: "Agent-based post-earthquake evacuation simulation to enhance early-stage architectural layout and non-structural design"
   image:
   description: "Automation in Construction (2024)"
-  authors: Sajjad Hassanpour, Vicente A González, Yang Zou, Jiamou Liu, Guillermo Cabrera-Guerrero
+  authors: Sajjad Hassanpour, Vicente A González, Yang Zou, **Jiamou Liu**, Guillermo Cabrera-Guerrero
   link:
     url: 
     display: 
@@ -94,7 +94,7 @@
 - title: "SKGSum: Structured Knowledge-Guided Document Summarization"
   image:
   description: "Findings of the Association for Computational Linguistics ACL 2024"
-  authors: Qiqi Wang, Ruofan Wang, Kaiqi Zhao, Robert Amor, Benjamin Liu, Jiamou Liu, Xianda Zheng, Zijian Huang
+  authors: Qiqi Wang, Ruofan Wang, Kaiqi Zhao, Robert Amor, Benjamin Liu, **Jiamou Liu**, Xianda Zheng, Zijian Huang
   link:
     url: 
     display: 
@@ -104,7 +104,7 @@
 - title: "Lexicographic ranking supermartingales with lazy lower bounds"
   image:
   description: "International Conference on Computer Aided Verification (2024)"
-  authors: Toru Takisaka, Libo Zhang, Changjiang Wang, Jiamou Liu
+  authors: Toru Takisaka, Libo Zhang, Changjiang Wang, **Jiamou Liu**
   link:
     url: 
     display: 
@@ -114,7 +114,7 @@
 - title: "Epic-level text generation with LLM through auto-prompted reinforcement learning"
   image:
   description: "2024 International Joint Conference on Neural Networks (IJCNN)"
-  authors: Qianqian Qi, Lin Ni, Zhongsheng Wang, Libo Zhang, Jiamou Liu, Michael Witbrock
+  authors: Qianqian Qi, Lin Ni, Zhongsheng Wang, Libo Zhang, **Jiamou Liu**, Michael Witbrock
   link:
     url: 
     display: 
@@ -124,7 +124,7 @@
 - title: "Enhancing Data Augmentation with Knowledge-enriched Data Generation via Dynamic Prompt-tuning Method"
   image:
   description: "2024 International Joint Conference on Neural Networks (IJCNN)"
-  authors: Qianqian Qi, Qiming Bao, Alex Yuxuan Peng, Jiamou Liu, Michael Witbrock
+  authors: Qianqian Qi, Qiming Bao, Alex Yuxuan Peng, **Jiamou Liu**, Michael Witbrock
   link:
     url: 
     display: 
@@ -134,7 +134,7 @@
 - title: "ChatLogic: Integrating Logic Programming with Large Language Models for Multi-Step Reasoning"
   image:
   description: "2024 International Joint Conference on Neural Networks (IJCNN)"
-  authors: Zhongsheng Wang, Jiamou Liu, Qiming Bao, Hongfei Rong, Jingfeng Zhang
+  authors: Zhongsheng Wang, **Jiamou Liu**, Qiming Bao, Hongfei Rong, Jingfeng Zhang
   link:
     url: 
     display: 
@@ -144,7 +144,7 @@
 - title: "Tp-gnn: Continuous dynamic graph neural network for graph classification"
   image:
   description: "IEEE 40th International Conference on Data Engineering (ICDE) 2024"
-  authors: Jie Liu, Jiamou Liu, Kaiqi Zhao, Yanni Tang, Wu Chen
+  authors: Jie Liu, **Jiamou Liu**, Kaiqi Zhao, Yanni Tang, Wu Chen
   link:
     url: 
     display: 
@@ -154,7 +154,7 @@
 - title: "Memory-Based Resilient Control Against Non-cooperation in Multi-agent Flocking"
   image:
   description: "Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2024"
-  authors: Mingyue Zhang, Nianyu Li, Jialong Li, Jiachun Liao, Jiamou Liu
+  authors: Mingyue Zhang, Nianyu Li, Jialong Li, Jiachun Liao, **Jiamou Liu**
   link:
     url: 
     display: 
@@ -164,7 +164,7 @@
 - title: "Meta-inverse reinforcement learning for mean field games via probabilistic context variables"
   image:
   description: "Proceedings of the AAAI Conference on Artificial Intelligence (2024)"
-  authors: Yang Chen, Xiao Lin, Bo Yan, Libo Zhang, Jiamou Liu, Neset Özkan Tan, Michael Witbrock
+  authors: Yang Chen, Xiao Lin, Bo Yan, Libo Zhang, **Jiamou Liu**, Neset Özkan Tan, Michael Witbrock
   link:
     url: 
     display: 
@@ -174,7 +174,7 @@
 - title: "Enhancing student performance prediction on learnersourced questions with sgnn-llm synergy"
   image:
   description: "Proceedings of the AAAI Conference on Artificial Intelligence (2024)"
-  authors: Lin Ni, Sijie Wang, Zeyu Zhang, Xiaoxuan Li, Xianda Zheng, Paul Denny, Jiamou Liu
+  authors: Lin Ni, Sijie Wang, Zeyu Zhang, Xiaoxuan Li, Xianda Zheng, Paul Denny, **Jiamou Liu**
   link:
     url: 
     display: 
@@ -184,7 +184,7 @@
 - title: "A blockchain-based privacy-preserving scheme for sealed-bid auction"
   image:
   description: "IEEE Transactions on Dependable and Secure Computing (2024)"
-  authors: Zijian Zhang, Xin Lu, Meng Li, Jincheng An, Yang Yu, Hao Yin, Liehuang Zhu, Yong Liu, Jiamou Liu, Bakh Khoussainov
+  authors: Zijian Zhang, Xin Lu, Meng Li, Jincheng An, Yang Yu, Hao Yin, Liehuang Zhu, Yong Liu, **Jiamou Liu**, Bakh Khoussainov
   link:
     url: 
     display: 
@@ -195,7 +195,7 @@
 - title: "Safe reinforcement learning task planning with uncertain duration and resource consumption in limited daytime for lunar rovers"
   image:
   description: "2024 IAF Space Operations Symposium at the 75th International Astronautical Congress (IAC) 2024"
-  authors: Siyao Lu, Rui Xu, Ai Gao, Zhaoyu Li, Jiamou Liu, Libo Zhang, Zhijun Zhao, Shengying Zhu, Yuqiong Li
+  authors: Siyao Lu, Rui Xu, Ai Gao, Zhaoyu Li, **Jiamou Liu**, Libo Zhang, Zhijun Zhao, Shengying Zhu, Yuqiong Li
   link:
     url: 
     display: 
@@ -206,7 +206,7 @@
 - title: "Incentivising Diffusion while Preserving Differential Privacy"
   image:
   description: "Uncertainty in Artificial Intelligence (UAI) 2023"
-  authors: Mengxiao Zhang, Fengjuan Jia, Jiamou Liu, Bakhadyr Khoussainov
+  authors: Mengxiao Zhang, Fengjuan Jia, **Jiamou Liu**, Bakhadyr Khoussainov
   link:
     url: 
     display: 
@@ -215,7 +215,7 @@
 - title: "Contrastive Learning for Signed Bipartite Graphs"
   image:
   description: "Special Interest Group on Information Retrieval (SIGIR) 2023"
-  authors: Zeyu Zhang, Jiamou Liu, Kaiqi Zhao, Song Yang, Xianda Zheng, Yifei Wang
+  authors: Zeyu Zhang, **Jiamou Liu**, Kaiqi Zhao, Song Yang, Xianda Zheng, Yifei Wang
   link:
     url: 
     display: 
@@ -224,7 +224,7 @@
 - title: "Dynamic Prompt-tuning Method for Data Augmentation with Associated Knowledge"
   image:
   description: "International Conference on Learning Representations (ICLR) 2023, tiny paper"
-  authors: Qianqian Qi, Qiming Bao, Alex Peng, Jiamou Liu, Michael Witbrock
+  authors: Qianqian Qi, Qiming Bao, Alex Peng, **Jiamou Liu**, Michael Witbrock
   link:
     url: 
     display: 
@@ -233,7 +233,7 @@
 - title: "RSGNN: A Model-agnostic Approach for Enhancing the Robustness of Signed Graph Neural Networks"
   image:
   description: "The Web Conference (WWW) 2023"
-  authors: Zeyu Zhang, Jiamou Liu, Xianda Zheng, Yifei Wang, Pengqian Han, Wang Yupan, Kaiqi Zhao, Zijian Zhang
+  authors: Zeyu Zhang, **Jiamou Liu**, Xianda Zheng, Yifei Wang, Pengqian Han, Wang Yupan, Kaiqi Zhao, Zijian Zhang
   link:
     url: 
     display: 
@@ -243,7 +243,7 @@
 - title: "A Survey of Data Pricing for Data Marketplaces"
   image:
   description: "IEEE Transactions on Big Data"
-  authors: Mengxiao Zhang, Jiamou Liu, Fernando Beltran
+  authors: Mengxiao Zhang, **Jiamou Liu**, Fernando Beltran
   link:
     url: 
     display: 
@@ -253,7 +253,7 @@
 - title: "Adversarial Inverse Reinforcement Learning for Mean Field Games"
   image:
   description: "22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023)"
-  authors: Yang Chen, Libo Zhang, Jiamou Liu and Michael Witbrock 
+  authors: Yang Chen, Libo Zhang, **Jiamou Liu** and Michael Witbrock 
   link:
     url: 
     display: 
@@ -264,7 +264,7 @@
 - title: "Learning Density-Based Correlated Equilibria for Markov Games"
   image:
   description: "22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023)"
-  authors: Libo Zhang, Yang Chen, Toru Takisaka, Bakh Khoussainov, Michael Witbrock and Jiamou Liu 
+  authors: Libo Zhang, Yang Chen, Toru Takisaka, Bakh Khoussainov, Michael Witbrock and **Jiamou Liu** 
   link:
     url: 
     display: 
@@ -275,7 +275,7 @@
 - title: "Differentially Private Diffusion Auction: The Single-unit Case"
   image:
   description: "22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023)"
-  authors: Fengjuan Jia, Mengxiao Zhang, Jiamou Liu and Bakh Khoussainov 
+  authors: Fengjuan Jia, Mengxiao Zhang, **Jiamou Liu** and Bakh Khoussainov 
   link:
     url: 
     display: 
@@ -295,7 +295,7 @@
 - title: "MSDC: non-intrusive load monitoring with a dual-CNN model"
   image:
   description: "Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI-23)"
-  authors: Jialing He, Jiamou Liu, Zijian Zhang, Yang Chen, Yiwei Liu, Bakh Khoussainov, Liehuang Zhu
+  authors: Jialing He, **Jiamou Liu**, Zijian Zhang, Yang Chen, Yiwei Liu, Bakh Khoussainov, Liehuang Zhu
   link:
     url: 
     display: 
@@ -305,7 +305,7 @@
 - title: "Multi-Step Deductive Reasoning Over Natural Language: An Empirical Study on Out-of-Distribution Generalisation"
   image:
   description: "Neural-Symbolic Learning and Reasoning (NeSy2022)"
-  authors: Qiming Bao, Alex Yuxuan Peng, Tim Hartill, Neset Tan, Zhenyun Deng, Michael Witbrock, Jiamou Liu 
+  authors: Qiming Bao, Alex Yuxuan Peng, Tim Hartill, Neset Tan, Zhenyun Deng, Michael Witbrock, **Jiamou Liu** 
   link:
     url: 
     display: 
@@ -315,7 +315,7 @@
 - title: "Text-based Risky Decision-Making Guided by Fuzzy Trace Theory"
   image:
   description: "Findings of NAACL 2022"
-  authors: Jaron Mar, Jiamou Liu
+  authors: Jaron Mar, **Jiamou Liu**
   link:
     url: 
     display: 
@@ -325,7 +325,7 @@
 - title: "Trajectory Flow Map Enhanced Transformer for Next POI Recommendation"
   image:
   description: "SIGIR 2022"
-  authors: Song Yang, Jiamou Liu, Kaiqi Zhao
+  authors: Song Yang, **Jiamou Liu**, Kaiqi Zhao
   link:
     url: 
     display: 
@@ -335,7 +335,7 @@
 - title: "Interconnected Neural Linear Contextual Bandits with UCB Exploration"
   image:
   description: "26th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD-22)"
-  authors: Yang Chen, Miao Xie, Jiamou Liu, Kaiqi Zhao
+  authors: Yang Chen, Miao Xie, **Jiamou Liu**, Kaiqi Zhao
   link:
     url: 
     display: 
