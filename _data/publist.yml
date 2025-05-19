@@ -1,7 +1,7 @@
 - title: "Automatic method for identification of cycles in Covid-19 time-series data"
   image:
   description: "Data Science and Management (2025)"
-  authors: Miaotian Li, Ciprian Doru Giurcăneanu, Jiamou Liu
+  authors: Miaotian Li, Ciprian Doru Giurcăneanu, **Jiamou Liu**
   link:
     url: 
     display: 
@@ -11,7 +11,7 @@
 - title: "Exploring iterative enhancement for improving learnersourced multiple-choice question explanations with large language models"
   image:
   description: "Proceedings of the AAAI Conference on Artificial Intelligence (2025)"
-  authors: Qiming Bao, Juho Leinonen, Alex Yuxuan Peng, Wanjun Zhong, Gaël Gendron, Timothy Pistotti, Alice Huang, Paul Denny, Michael Witbrock, Jiamou Liu
+  authors: Qiming Bao, Juho Leinonen, Alex Yuxuan Peng, Wanjun Zhong, Gaël Gendron, Timothy Pistotti, Alice Huang, Paul Denny, Michael Witbrock, **Jiamou Liu**
   link:
     url: 
     display: 
@@ -345,7 +345,7 @@
 - title: "Residual Entropy-based Graph Generative Algorithms"
   image:
   description: "21st International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2022)"
-  authors: W. Liu, J. Liu, Y. Liu, Z. Zhang
+  authors: W. Liu, **J. Liu**, Y. Liu, Z. Zhang
   link:
     url: 
     display: 
@@ -355,7 +355,7 @@
 - title: "Individual-Level Inverse Reinforcement Learning for Mean Field Games"
   image:
   description: "21st International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2022)"
-  authors: Yang Chen, Libo Zhang, Jiamou Liu, Shuyue Hu
+  authors: Yang Chen, Libo Zhang, **Jiamou Liu**, Shuyue Hu
   link:
     url: 
     display: 
@@ -365,7 +365,7 @@
 - title: "Neural-based Quality Ratings for Learnersourced Multiple-Choice Questions"
   image:
   description: "Twelfth AAAI Symposium on Educational Advances in Artificial Intelligence (EAAI-22)"
-  authors: Ni, Bao, Li, Qi, Denny, Warren, Witbrock, Liu
+  authors: Ni, Bao, Li, Qi, Denny, Warren, Witbrock, **Liu**
   link:
     url: 
     display: 
