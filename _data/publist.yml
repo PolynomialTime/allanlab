@@ -1,3 +1,55 @@
+- title: "Memory-Based Resilient Control Against Non-cooperation in Multi-agent Flocking"
+  image:
+  description: "Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2024"
+  authors: Mingyue Zhang, Nianyu Li, Jialong Li, Jiachun Liao, Jiamou Liu
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+- title: "Meta-inverse reinforcement learning for mean field games via probabilistic context variables"
+  image:
+  description: "Proceedings of the AAAI Conference on Artificial Intelligence (2024)"
+  authors: Yang Chen, Xiao Lin, Bo Yan, Libo Zhang, Jiamou Liu, Neset Özkan Tan, Michael Witbrock
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+- title: "Enhancing student performance prediction on learnersourced questions with sgnn-llm synergy"
+  image:
+  description: "Proceedings of the AAAI Conference on Artificial Intelligence (2024)"
+  authors: Lin Ni, Sijie Wang, Zeyu Zhang, Xiaoxuan Li, Xianda Zheng, Paul Denny, Jiamou Liu
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+- title: "A blockchain-based privacy-preserving scheme for sealed-bid auction"
+  image:
+  description: "IEEE Transactions on Dependable and Secure Computing (2024)"
+  authors: Zijian Zhang, Xin Lu, Meng Li, Jincheng An, Yang Yu, Hao Yin, Liehuang Zhu, Yong Liu, Jiamou Liu, Bakh Khoussainov
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+
+- title: "Safe reinforcement learning task planning with uncertain duration and resource consumption in limited daytime for lunar rovers"
+  image:
+  description: "2024 IAF Space Operations Symposium at the 75th International Astronautical Congress (IAC) 2024"
+  authors: Siyao Lu, Rui Xu, Ai Gao, Zhaoyu Li, Jiamou Liu, Libo Zhang, Zhijun Zhao, Shengying Zhu, Yuqiong Li
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+
 - title: "Incentivising Diffusion while Preserving Differential Privacy"
   image:
   description: "Uncertainty in Artificial Intelligence (UAI) 2023"
