@@ -1,3 +1,156 @@
+- title: "Automatic method for identification of cycles in Covid-19 time-series data"
+  image:
+  description: "Data Science and Management (2025)"
+  authors: Miaotian Li, Ciprian Doru Giurcăneanu, Jiamou Liu
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+- title: "Exploring iterative enhancement for improving learnersourced multiple-choice question explanations with large language models"
+  image:
+  description: "Proceedings of the AAAI Conference on Artificial Intelligence (2025)"
+  authors: Qiming Bao, Juho Leinonen, Alex Yuxuan Peng, Wanjun Zhong, Gaël Gendron, Timothy Pistotti, Alice Huang, Paul Denny, Michael Witbrock, Jiamou Liu
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+- title: "Learning Verified Safe Neural Network Controllers for Multi-Agent Path Finding"
+  image:
+  description: "Proceedings of the AAAI Conference on Artificial Intelligence (2025)"
+  authors: Mingyue Zhang, Nianyu Li, Yi Chen, Jialong Li, Xiao-Yi Zhang, Hengjun Zhao, Jiamou Liu, Wu Chen
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+
+- title: "Zero-Knowledge Proof-Based Verifiable Decentralized Machine Learning in Communication Network: A Comprehensive Survey"
+  image:
+  description: "IEEE Communications Surveys & Tutorials (2025)"
+  authors: Zhibo Xing, Zijian Zhang, Ziang Zhang, Zhen Li, Meng Li, Jiamou Liu, Zongyang Zhang, Yi Zhao, Qi Sun, Liehuang Zhu, Giovanni Russello
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+
+- title: "Integrating zero-knowledge proofs into federated learning: a path to on-chain verifiable and privacy-preserving federated learning frameworks"
+  image:
+  description: "International Journal of Web Information Systems (2025)"
+  authors: Chunlei Li, Zhibo Xing, Jiamou Liu, Giovanni Russello, Zhen Li, Yan Wu, Meng Li, Muhammad Rizwan Asghar
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+
+- title: "Upper Limb Motor Sequence Analysis: From Isolated to Sequential"
+  image:
+  description: "IEEE Transactions on Industrial Informatics 2025"
+  authors: Tian-Yu Xiang, Xiao-Hu Zhou, Mei-Jiang Gui, Xiao-Liang Xie, Shi-Qi Liu, Hao Li, De-Xing Huang, Jia-Xing Wang, Yong-Qiang Tang, Jia-Mou Liu, Zeng-Guang Hou
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+- title: "Optimizing Resource Distribution Towards Energy Justice in Resilient Smart Grids"
+  image:
+  description: "Principle and Practice of Data and Knowledge Acquisition Workshop (PAKW) 2024"
+  authors: Libo Zhang, Yuly Wu, Weidong Li, Song Yang, Yang Chen, Kaiqi Zhao, Jiamou Liu
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+- title: "Optimizing Resource Distribution Towards Energy Justice in Resilient Smart Grids"
+  image:
+  description: "Principle and Practice of Data and Knowledge Acquisition Workshop (PAKW) 2024"
+  authors: Libo Zhang, Yuly Wu, Weidong Li, Song Yang, Yang Chen, Kaiqi Zhao, Jiamou Liu
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+- title: "Agent-based post-earthquake evacuation simulation to enhance early-stage architectural layout and non-structural design"
+  image:
+  description: "Automation in Construction (2024)"
+  authors: Sajjad Hassanpour, Vicente A González, Yang Zou, Jiamou Liu, Guillermo Cabrera-Guerrero
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+- title: "SKGSum: Structured Knowledge-Guided Document Summarization"
+  image:
+  description: "Findings of the Association for Computational Linguistics ACL 2024"
+  authors: Qiqi Wang, Ruofan Wang, Kaiqi Zhao, Robert Amor, Benjamin Liu, Jiamou Liu, Xianda Zheng, Zijian Huang
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+- title: "Lexicographic ranking supermartingales with lazy lower bounds"
+  image:
+  description: "International Conference on Computer Aided Verification (2024)"
+  authors: Toru Takisaka, Libo Zhang, Changjiang Wang, Jiamou Liu
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+- title: "Epic-level text generation with LLM through auto-prompted reinforcement learning"
+  image:
+  description: "2024 International Joint Conference on Neural Networks (IJCNN)"
+  authors: Qianqian Qi, Lin Ni, Zhongsheng Wang, Libo Zhang, Jiamou Liu, Michael Witbrock
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+- title: "Enhancing Data Augmentation with Knowledge-enriched Data Generation via Dynamic Prompt-tuning Method"
+  image:
+  description: "2024 International Joint Conference on Neural Networks (IJCNN)"
+  authors: Qianqian Qi, Qiming Bao, Alex Yuxuan Peng, Jiamou Liu, Michael Witbrock
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+- title: "ChatLogic: Integrating Logic Programming with Large Language Models for Multi-Step Reasoning"
+  image:
+  description: "2024 International Joint Conference on Neural Networks (IJCNN)"
+  authors: Zhongsheng Wang, Jiamou Liu, Qiming Bao, Hongfei Rong, Jingfeng Zhang
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+- title: "Tp-gnn: Continuous dynamic graph neural network for graph classification"
+  image:
+  description: "IEEE 40th International Conference on Data Engineering (ICDE) 2024"
+  authors: Jie Liu, Jiamou Liu, Kaiqi Zhao, Yanni Tang, Wu Chen
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
 - title: "Memory-Based Resilient Control Against Non-cooperation in Multi-agent Flocking"
   image:
   description: "Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems (AAMAS) 2024"
