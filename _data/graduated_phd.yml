@@ -4,15 +4,11 @@
   email: alex.zhang@auckland.ac.nz
   bio: I received my bachelor degree from Wuhan Institute of Technology and master degree from Wuhan University of Technology. I have been a lecturer in Guangdong University of Petrochemical Technology from 2015 to 2018. My research interests include social network analysis, especially network embedding. 
 
-
-
 - name: Jaron Mar
   photo: jaron.jpg
   duration: 2018. 08 -- 2023. 04
   email: jmar914@aucklanduni.ac.nz
   bio: I received both my Honours (First Class) and Bachelor of Science Degrees in Computer Science from The University of Auckland. My research interests lie broadly in Natural Language Processing with my recent research focusing on the intersection between Psychology, Artificial Intelligence and Natural Language Processing.
-
-
 
 - name: Yang Chen
   photo: yangchen.jpg
@@ -49,3 +45,10 @@
   email: syan382@aucklanduni.ac.nz
   homepage: http://songyang.co/
   bio: I got my master degree of computer science from the University of Auckland in 2018 and got my bachlor degree from Nanjing University in 2016. My main research interests are machine learning, deep learning, graph-based neural network and computer vision. I also do reserach related to artificial intelligence in healthcare and software engineering.
+
+
+- name: Yifei Wang
+  photo: yifei.jpg
+  homepage: https://profiles.auckland.ac.nz/wany107
+  duration: 2020 -- 2025.05
+  bio: I received my master degree in computer science and technology from the Beihang University in 2020, and bachelor in software engineering from Dalian University of Technology in 2017. My main research interests are machine learning and deep learning, especially Graph-based models and Self-supervised models. Recently, I am focused on constructing hybrid models combining anchor-based graph and neural networks to solve real-world problems with Self-supervised learning.
