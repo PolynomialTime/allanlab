@@ -52,3 +52,9 @@
   homepage: https://profiles.auckland.ac.nz/wany107
   duration: 2020 -- 2025.05
   bio: I received my master degree in computer science and technology from the Beihang University in 2020, and bachelor in software engineering from Dalian University of Technology in 2017. My main research interests are machine learning and deep learning, especially Graph-based models and Self-supervised models. Recently, I am focused on constructing hybrid models combining anchor-based graph and neural networks to solve real-world problems with Self-supervised learning.
+
+- name: Yiping Liu
+  photo: yiping.jpg
+  duration: 2019. 11 -- 2025.07
+  email: yliu823@aucklanduni.ac.nz
+  bio: I received my bachelor of mathmatics and master of engineering from Beijing Institute of Technology. My major interest lies in the  network structures and dynamics.  Recently my research focuses on the core/periphery structures. I am also interested in the theoretical analysis of machine learning, graph-based neural network, and so on.
