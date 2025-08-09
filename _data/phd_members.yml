@@ -16,14 +16,14 @@
   photo: Zhongsheng.jpg
   duration: 2025.04 -- Present
   email: zhongsheng.wang@auckland.ac.nz
-  bio: I received my undergraduate degree in cs from the School of Computer Science and Technology, Southwest University in 2023 and master degree in DS at the School of Computer Science, University of Auckland in 2024. My research focuses on multimodal reasoning, reliable text to image generation systems, and trustworthy AI agents. Also I am currently the maintainer of this website.
+  bio: I received my undergraduate degree in CS from the School of Computer Science and Technology, Southwest University in 2023 and master degree in DS at the School of Computer Science, University of Auckland in 2024. My research focuses on multimodal reasoning, AIGC, and trustworthy AI agents. Also I am currently the maintainer of this website.
   homepage: https://jkwzs.cn
 
 - name: Zhirui Zeng
   photo: zhirui.jpg
   duration: 2024.09 -- Present
   bio: I earned my Bachelor's and Master's degrees from Chongqing University in 2022 and 2025, respectively. My research focuses on the privacy and security of large language models (LLMs) and retrieval-augmented generation (RAG) systems, exploring techniques to enhance robustness, mitigate vulnerabilities, and ensure trustworthy AI deployment.
-  email: zzen859@aucklanduni.ac.nz
+  email: zhirui.zeng@auckland.ac.nz
 
 - name: Pengqian Han
   photo: pengqian.jpg
@@ -40,6 +40,7 @@
 - name: Xiaoxuan Li
   photo: xiaoxuan.jpg
   duration: 2020 -- Present
+  email: xli443@aucklanduni.ac.nz
   bio: I received my honours (First Class) degree in computer science from The University of Auckland in 2019 and received my bachelor's degree from The Tianjin University of Technology in 2015. My primary scientific interests focus on exploring Natural Language Process (NLP) technology to facilitate Robotic Process Automation (RPA), in particular in discovering business process flow from natural language texts.
 
 
