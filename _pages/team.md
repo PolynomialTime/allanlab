@@ -110,7 +110,7 @@ permalink: /team/
 
 
 
-## Former PhD
+## Alumni
 
 {% assign number_printed = 0 %}
 {% for member in site.data.graduated_phd %}
