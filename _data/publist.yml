@@ -18,6 +18,17 @@
   highlight: 0
   news2:
 
+- title: "Situational-Constrained Sequential Resources Allocation via Reinforcement Learning."
+  image:
+  description: "IJCAI 2025"
+  authors: Libo Zhang, Yang Chen, Toru Takisaka, Kaiqi Zhao, Weidong Li, and **Jiamou Liu**.
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+
 - title: "Automatic method for identification of cycles in Covid-19 time-series data"
   image:
   description: "Data Science and Management (2025)"
