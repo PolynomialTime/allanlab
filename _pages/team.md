@@ -8,7 +8,7 @@ permalink: /team/
 
 # Group Members
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team!**
+ **We are looking for new PhD students, and Master students to join the team!**
 
 ## Lab Director
 {% assign number_printed = 0 %}

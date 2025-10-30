@@ -1,3 +1,23 @@
+- title: "CharCom: Composable Identity Control for Multi-Character Story Illustration."
+  image:
+  description: "ACM MMAsia 2025"
+  authors: Zhongsheng Wang, Ming Lin, Zhedong Lin, Yaser Shakib, Qian Liu, **Jiamou Liu**.
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
+- title: "Stable Reward Learning for Inverse RL via Monotonic Policy Divergence Reduction."
+  image:
+  description: "NeurIPS 2025"
+  authors: Yang Chen, Menglin Zou, Jiaqi Zhang, Yitan Zhang, Junyi Yang, Gaël Gendron, Libo Zhang, **Jiamou Liu**, and Michael Witbrock.
+  link:
+    url: 
+    display: 
+  highlight: 0
+  news2:
+
 - title: "Automatic method for identification of cycles in Covid-19 time-series data"
   image:
   description: "Data Science and Management (2025)"
