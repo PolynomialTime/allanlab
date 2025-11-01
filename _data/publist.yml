@@ -8,26 +8,6 @@
   highlight: 0
   news2:
 
-- title: "Stable Reward Learning for Inverse RL via Monotonic Policy Divergence Reduction."
-  image:
-  description: "NeurIPS 2025"
-  authors: Yang Chen, Menglin Zou, Jiaqi Zhang, Yitan Zhang, Junyi Yang, Gaël Gendron, Libo Zhang, **Jiamou Liu**, and Michael Witbrock.
-  link:
-    url: 
-    display: 
-  highlight: 0
-  news2:
-
-- title: "Situational-Constrained Sequential Resources Allocation via Reinforcement Learning."
-  image:
-  description: "IJCAI 2025"
-  authors: Libo Zhang, Yang Chen, Toru Takisaka, Kaiqi Zhao, Weidong Li, and **Jiamou Liu**.
-  link:
-    url: 
-    display: 
-  highlight: 0
-  news2:
-
 
 - title: "Automatic method for identification of cycles in Covid-19 time-series data"
   image:
@@ -92,25 +72,7 @@
   highlight: 0
   news2:
 
-- title: "Optimizing Resource Distribution Towards Energy Justice in Resilient Smart Grids"
-  image:
-  description: "Principle and Practice of Data and Knowledge Acquisition Workshop (PAKW) 2024"
-  authors: Libo Zhang, Yuly Wu, Weidong Li, Song Yang, Yang Chen, Kaiqi Zhao, **Jiamou Liu**
-  link:
-    url: 
-    display: 
-  highlight: 0
-  news2:
 
-- title: "Optimizing Resource Distribution Towards Energy Justice in Resilient Smart Grids"
-  image:
-  description: "Principle and Practice of Data and Knowledge Acquisition Workshop (PAKW) 2024"
-  authors: Libo Zhang, Yuly Wu, Weidong Li, Song Yang, Yang Chen, Kaiqi Zhao, **Jiamou Liu**
-  link:
-    url: 
-    display: 
-  highlight: 0
-  news2:
 
 - title: "Agent-based post-earthquake evacuation simulation to enhance early-stage architectural layout and non-structural design"
   image:
@@ -192,15 +154,6 @@
   highlight: 0
   news2:
 
-- title: "Meta-inverse reinforcement learning for mean field games via probabilistic context variables"
-  image:
-  description: "Proceedings of the AAAI Conference on Artificial Intelligence (2024)"
-  authors: Yang Chen, Xiao Lin, Bo Yan, Libo Zhang, **Jiamou Liu**, Neset Özkan Tan, Michael Witbrock
-  link:
-    url: 
-    display: 
-  highlight: 0
-  news2:
 
 - title: "Enhancing student performance prediction on learnersourced questions with sgnn-llm synergy"
   image:
@@ -281,26 +234,8 @@
   highlight: 0
   news2:
 
-- title: "Adversarial Inverse Reinforcement Learning for Mean Field Games"
-  image:
-  description: "22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023)"
-  authors: Yang Chen, Libo Zhang, **Jiamou Liu** and Michael Witbrock 
-  link:
-    url: 
-    display: 
-  highlight: 0
-  news2:
 
 
-- title: "Learning Density-Based Correlated Equilibria for Markov Games"
-  image:
-  description: "22nd International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2023)"
-  authors: Libo Zhang, Yang Chen, Toru Takisaka, Bakh Khoussainov, Michael Witbrock and **Jiamou Liu** 
-  link:
-    url: 
-    display: 
-  highlight: 0
-  news2:
 
 
 - title: "Differentially Private Diffusion Auction: The Single-unit Case"
@@ -323,15 +258,6 @@
   highlight: 0
   news2:
 
-- title: "MSDC: non-intrusive load monitoring with a dual-CNN model"
-  image:
-  description: "Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI-23)"
-  authors: Jialing He, **Jiamou Liu**, Zijian Zhang, Yang Chen, Yiwei Liu, Bakh Khoussainov, Liehuang Zhu
-  link:
-    url: 
-    display: 
-  highlight: 0
-  news2:
 
 - title: "Multi-Step Deductive Reasoning Over Natural Language: An Empirical Study on Out-of-Distribution Generalisation"
   image:
@@ -363,15 +289,6 @@
   highlight: 0
   news2:
 
-- title: "Interconnected Neural Linear Contextual Bandits with UCB Exploration"
-  image:
-  description: "26th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD-22)"
-  authors: Yang Chen, Miao Xie, **Jiamou Liu**, Kaiqi Zhao
-  link:
-    url: 
-    display: 
-  highlight: 0
-  news2:
 
 - title: "Residual Entropy-based Graph Generative Algorithms"
   image:
@@ -383,15 +300,6 @@
   highlight: 0
   news2:
 
-- title: "Individual-Level Inverse Reinforcement Learning for Mean Field Games"
-  image:
-  description: "21st International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2022)"
-  authors: Yang Chen, Libo Zhang, **Jiamou Liu**, Shuyue Hu
-  link:
-    url: 
-    display: 
-  highlight: 0
-  news2:
 
 - title: "Neural-based Quality Ratings for Learnersourced Multiple-Choice Questions"
   image:
