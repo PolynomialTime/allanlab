@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">Civilised Agent Lab site icon</title>
+  <desc id="desc">A deep blue website icon with a white brain curve.</desc>
+  <rect width="64" height="64" rx="14" fill="#1e3a8a"/>
+  <g transform="translate(5 11) scale(0.34)" fill="none" stroke="#f8fafc" stroke-linecap="round" stroke-linejoin="round">
+    <path
+      d="M29 74C16 64 18 45 33 33C53 17 91 18 118 30C142 41 150 62 138 77C129 88 113 87 101 76C108 88 108 102 97 108C85 114 75 104 78 88C66 78 52 72 36 75C33 75.5 31 75.4 29 74Z"
+      stroke-width="7"
+    />
+    <path
+      d="M62 30C55 42 59 55 72 61C86 68 105 62 108 48C111 34 88 32 84 49C80 65 69 82 50 81C33 80 28 62 41 53C53 45 67 53 62 66C57 80 73 91 92 79C105 70 115 58 126 63"
+      stroke-width="5"
+    />
+  </g>
+</svg>

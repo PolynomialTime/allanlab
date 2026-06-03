@@ -1,0 +1,244 @@
+site:
+  name: Civilised Agent Lab
+  organization: University of Auckland
+  description: Civilised Agent Lab studies AI agents that act with judgement, restraint, and imagination in human worlds.
+  email: jiamou.liu@auckland.ac.nz
+  base_path: ""
+  asset_path: /assets/civilised-agent-lab
+  logo: civilised-agent-lab-logo.svg
+  favicon: favicon.svg
+  uoa_logo: https://www.auckland.ac.nz/content/auckland/en/news/2025/04/15/refreshed-university-logo-unifies-brand/_jcr_content/leftpar/imagecomponent/image.img.480.low.jpg/1744667894355.jpg
+
+nav:
+  - title: Home
+    url: /
+  - title: Research
+    url: /research/
+  - title: Publications
+    url: /publications/
+  - title: Seminars
+    url: /seminars/
+  - title: Gallery
+    url: /gallery/
+  - title: People
+    url: /people/
+  - title: Contact
+    url: /contact/
+
+home:
+  hero_title: We build
+  hero_word: Civilised Agents
+  hero_words:
+    - Civilised Agents
+    - Cultural Listeners
+    - Value Reasoners
+    - Creative Partners
+  intro:
+    - Civilised Agent Lab studies the human side of agentic AI - emotion, aesthetics, culture, values, and creativity.
+    - We study agents that listen before answering, explain before generating, respect before recommending, and act with judgement rather than mere fluency.
+  hero_slides:
+    - work/civilised-agency.png
+    - work/emotional-judgement.png
+    - work/aesthetic-reasoning.png
+    - work/cultural-context.png
+    - work/plural-values-restraint.png
+    - work/creative-coagency.png
+  manifesto:
+    label: Manifesto
+    title: Powerful agents should become responsible guests in human worlds.
+    copy:
+      - A system that only optimizes may damage what it cannot name. A system that only speaks fluently may miss what matters. A system that only obeys may walk neatly into moral darkness.
+      - Civilised AI listens before answering, explains before generating, respects before recommending, and imagines before imitating.
+  work_title: Explore our lab work
+  work_cards:
+    - title: Civilised Agency
+      image: work/civilised-agency.png
+      alt: Civilised AI agent system diagram representing judgement and restraint.
+      href: "#manifesto"
+      link_text: View manifesto
+      copy: A framework for agents that act as responsible guests in human worlds - attentive, situated, explainable, and capable of restraint.
+    - title: Emotional Judgement
+      image: work/emotional-judgement.png
+      alt: Agent interface reading affective signals before a decision gate.
+      href: /research/#directions
+      link_text: View research
+      copy: Agents should read affective stakes, vulnerability, timing, and uncertainty before deciding when to answer, refuse, delay, or ask.
+    - title: Aesthetic Reasoning
+      image: work/aesthetic-reasoning.png
+      alt: Generated media frames evaluated for composition and aesthetic fit.
+      href: /research/#evaluation
+      link_text: View evaluation
+      copy: Beyond correct outputs, agents need taste, proportion, form, and sensitivity to how generated artifacts feel, signify, and fit.
+    - title: Cultural Context
+      image: work/cultural-context.png
+      alt: Context graph connecting norms, histories, and social practices.
+      href: /research/#culture-values
+      link_text: View context work
+      copy: Civilised agents must reason with tacit norms, histories, local practices, and relationships rather than treating every user as context-free.
+    - title: Plural Values + Restraint
+      image: work/plural-values-restraint.png
+      alt: Multi-objective value landscape passing through restraint constraints.
+      href: /research/#culture-values
+      link_text: View value work
+      copy: When values conflict, agents should expose tradeoffs, preserve human agency, and avoid collapsing disagreement into a single optimized answer.
+    - title: Creative Co-agency
+      image: work/creative-coagency.png
+      alt: Human and AI agents co-creating image and video frames.
+      href: /people/
+      link_text: Meet collaborators
+      copy: We study agents as creative partners that expand imagination while preserving authorship, identity, meaning, and human judgement.
+
+research:
+  label: Research
+  title: Research directions
+  intro: We study civilised agentic AI as a computer science problem - generative models, multi-agent systems, incentive mechanisms, trustworthy evaluation, and human-agent interaction.
+  section_label: Research Directions
+  section_title: Six computer science directions for civilised agentic AI
+  section_copy: Each direction turns the lab's manifesto into concrete research on algorithms, systems, evaluation protocols, and computational institutions for agentic AI.
+  directions:
+    - id: creative
+      number: "01"
+      title: Image Generation and Visual Creative Agents
+      copy: We study controllable image generation, visual editing, multimodal prompting, and creative agents that can plan, critique, and revise visual artifacts with users.
+      questions:
+        - How can diffusion and multimodal models support controllable visual reasoning?
+        - How should agents evaluate composition, style, identity, and cultural meaning?
+    - id: video-generation
+      number: "02"
+      title: Video Generation and Temporal World Models
+      copy: We investigate video generation, temporal consistency, scene dynamics, and agent-controlled media systems for narrative, education, and simulation.
+      questions:
+        - How can generative video models preserve identity, motion, and causal structure?
+        - How can agents storyboard, generate, inspect, and repair video sequences?
+    - id: multi-agent-systems
+      number: "03"
+      title: Multi-Agent Systems and Agent Societies
+      copy: We design and evaluate systems of multiple AI agents that coordinate, negotiate, delegate, compete, and form social or organizational structures.
+      questions:
+        - How can agent societies coordinate under partial information and value conflict?
+        - How should roles, memory, protocols, and communication channels be designed?
+    - id: marketplace-mechanism
+      number: "04"
+      title: AI Marketplace and Mechanism Design
+      copy: We study computational markets where humans, agents, models, tools, and data services interact through incentives, reputation, pricing, allocation, and governance rules.
+      questions:
+        - What auction, matching, and pricing mechanisms work for agent-mediated services?
+        - How can reputation and incentive design reduce manipulation and low-quality output?
+    - id: evaluation
+      number: "05"
+      title: Trustworthy Agent Evaluation and Safety
+      copy: We develop benchmarks, auditing methods, reliability tests, provenance mechanisms, and safety protocols for agents that act across tools, users, and institutions.
+      questions:
+        - How should we test calibration, refusal, robustness, and recovery from mistakes?
+        - How can agent actions be logged, explained, audited, and attributed?
+    - id: culture-values
+      number: "06"
+      title: Cultural and Value-Aware Human-Agent Interaction
+      copy: We build interfaces and computational models that help agents reason about cultural context, plural values, user intent, and human judgement in real workflows.
+      questions:
+        - How can agents adapt to context without stereotyping or over-personalizing?
+        - How should interfaces expose uncertainty, disagreement, and value tradeoffs?
+
+people:
+  label: People
+  title: People and collaborators
+  intro: Current group members, visitors, and alumni connected to the lab's research foundations in artificial intelligence, multi-agent systems, machine learning, natural language processing, social networks, and trustworthy agentic AI.
+  section_label: Team
+  section_title: Group members
+  section_copy: The group welcomes prospective PhD and Master students interested in agentic AI, generative systems, computational social science, trustworthy machine learning, and human-centred AI systems.
+
+publications:
+  label: Publications
+  title: Selected publications
+  intro: A curated publication record connected to multi-agent systems, machine learning, reasoning, social networks, data markets, and trustworthy AI.
+  section_label: Record
+  section_title: Selected publication record
+
+seminars:
+  label: Group Seminars
+  title: Group seminar schedule
+  intro: A working forum for papers, experiments, design critiques, and careful disagreement around civilised agentic AI.
+  section_label: Schedule
+  section_title: Upcoming and planned sessions
+  section_copy: Dates and venues will be confirmed by the lab. The first entries below establish the shape of the series without claiming a finalized public timetable.
+  planned:
+    - date: Date to be announced
+      type: Reading seminar
+      title: Emotional judgement and restraint in agentic AI
+      copy: A discussion on timing, vulnerability, refusal, and the boundary between support and manipulation in conversational agents.
+    - date: Date to be announced
+      type: Work-in-progress
+      title: Evaluating civilised agent behaviour
+      copy: Early protocols for testing disclosure, repair, restraint, cultural context, and human impact in real agent workflows.
+    - date: Date to be announced
+      type: Design critique
+      title: Aesthetic reasoning and creative co-agency
+      copy: A critique session on agents for story, media, design, education, and heritage that preserve meaning while expanding imagination.
+    - date: Date to be announced
+      type: Research discussion
+      title: Culture, plural values, and situated agency
+      copy: A seminar on how agents might reason across tacit norms, histories, disagreement, and relationships where the right action depends on context.
+
+gallery:
+  label: Gallery
+  title: Gallery of lab moments
+  intro: Photos from conferences, presentations, ceremonies, meetings, and group activities that show the lab's research community in motion.
+  section_label: Lab Pictures
+  section_title: Talks, visits, awards, and group moments
+  items:
+    - tag: ACL 2025
+      title: Zhirui presenting his poster in Vienna.
+      meta: July 28, 2025 - Vienna, Austria
+      image: gallery/zhirui-acl-2025.jpg
+      alt: Zhirui presenting a poster at ACL 2025.
+    - tag: ACL 2025
+      title: Zhirui and Jiamou in front of St. Stephen's Cathedral.
+      meta: July 27, 2025 - Vienna, Austria
+      image: gallery/zhirui-jiamou-acl-2025.jpg
+      alt: Zhirui and Jiamou in front of St. Stephen's Cathedral in Vienna.
+    - tag: Graduation
+      title: Qianqian and Haoyuan received their degrees.
+      meta: May 15, 2025 - Auckland, NZ
+      image: gallery/graduation-2025.jpg
+      alt: Qianqian and Haoyuan at the 2025 graduation ceremony.
+    - tag: AAMAS 2024
+      title: Jiamou Liu giving remarks at the opening.
+      meta: May 8, 2024 - Auckland, NZ
+      image: gallery/aamas-2024-opening.jpeg
+      alt: Jiamou Liu giving remarks at the opening of AAMAS 2024.
+    - tag: Group Life
+      title: Christmas party.
+      meta: Dec 17, 2020 - West District, Auckland
+      image: gallery/christmas-party-2020.jpg
+      alt: Lab Christmas party in 2020.
+    - tag: Meeting
+      title: Weekly meeting with Christmas cakes.
+      meta: Dec 4, 2020 - UoA
+      image: gallery/weekly-meeting-2020.jpeg
+      alt: Weekly lab meeting with Christmas cakes in 2020.
+    - tag: Celebration
+      title: Academic year ending celebration.
+      meta: Nov 27, 2020 - UoA
+      image: gallery/academic-year-ending-2020.jpg
+      alt: Academic year ending celebration in 2020.
+    - tag: Meeting
+      title: Weekly meeting.
+      meta: Dec 20, 2019 - UoA
+      image: gallery/weekly-meeting-2019.jpg
+      alt: Weekly lab meeting in 2019.
+
+contact:
+  label: Contact
+  title: Contact the lab
+  intro: For prospective students, collaborators, and organizations interested in civilised agentic AI, contact the lab through Associate Professor Jiamou Liu.
+  section_title: Civilised Agent Lab
+  lead: Associate Professor Jiamou Liu
+  affiliation: School of Computer Science
+  university: University of Auckland
+  university_url: https://www.auckland.ac.nz/en/science/about-the-faculty/school-of-computer-science.html
+  email: jiamou.liu@auckland.ac.nz
+  address:
+    - Building 903 - Bldg 903
+    - 262 Khyber Pass, Newmarket
+    - Auckland 1023, New Zealand
+  map_query: BUILDING 903 - Bldg 903, 262 KHYBER PASS, NEWMARKET, AUCKLAND, 1023, New Zealand

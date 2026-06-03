@@ -1,0 +1,55 @@
+{% assign cal = site.data.civilised_agent_lab %}
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if page.title == cal.site.name %}{{ cal.site.name }} | {{ cal.site.organization }}{% else %}{{ page.title }} | {{ cal.site.name }}{% endif %}</title>
+    <meta name="description" content="{{ page.description | default: cal.site.description }}">
+    <meta name="theme-color" content="#ffffff">
+    <meta property="og:title" content="{% if page.title == cal.site.name %}{{ cal.site.name }} | {{ cal.site.organization }}{% else %}{{ page.title }} | {{ cal.site.name }}{% endif %}">
+    <meta property="og:description" content="{{ page.description | default: cal.site.description }}">
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{{ cal.site.asset_path }}/work/civilised-agency.png">
+    <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@600;700&family=Open+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="icon" type="image/svg+xml" href="{{ site.baseurl }}{{ cal.site.asset_path }}/{{ cal.site.favicon }}">
+    <link rel="stylesheet" href="{{ site.baseurl }}{{ cal.site.asset_path }}/styles.css">
+  </head>
+  <body class="{{ page.body_class }}">
+    <a class="skip-link" href="#main">Skip to content</a>
+
+    <header class="site-header" id="top">
+      <div class="shell header-shell">
+        <a class="wordmark" href="{{ site.baseurl }}{{ cal.site.base_path }}/" aria-label="{{ cal.site.name }} home">
+          <span>Civilised</span>
+          <span>Agent Lab</span>
+          <img class="wordmark-logo" src="{{ site.baseurl }}{{ cal.site.asset_path }}/{{ cal.site.logo }}" alt="" width="68" height="52" aria-hidden="true">
+        </a>
+        <nav class="site-nav" aria-label="Primary navigation">
+          {% for item in cal.nav %}
+            <a href="{{ site.baseurl }}{{ cal.site.base_path }}{{ item.url }}">{{ item.title }}</a>
+          {% endfor %}
+        </nav>
+      </div>
+    </header>
+
+    <main id="main">
+      {{ content }}
+    </main>
+
+    <footer class="site-footer">
+      <div class="shell footer-shell">
+        <p>{{ cal.site.name }}</p>
+        <a class="footer-logo-link" href="https://www.auckland.ac.nz/en/science/about-the-faculty/school-of-computer-science.html" aria-label="University of Auckland School of Computer Science">
+          <img class="uoa-logo" src="{{ cal.site.uoa_logo }}" alt="Waipapa Taumata Rau University of Auckland" loading="lazy">
+        </a>
+        <a href="#top">Back to top</a>
+      </div>
+    </footer>
+
+    <script src="{{ site.baseurl }}{{ cal.site.asset_path }}/script.js"></script>
+  </body>
+</html>

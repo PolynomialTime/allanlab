@@ -2,7 +2,7 @@
 layout: civilised
 title: Gallery
 description: Gallery of group activities, talks, visits, and research moments connected to Civilised Agent Lab and Liu AI Lab.
-permalink: /pictures/
+permalink: /gallery/
 ---
 {% assign cal = site.data.civilised_agent_lab %}
 {% assign gallery = cal.gallery %}

@@ -2,7 +2,7 @@
 layout: civilised
 title: People
 description: People, students, visitors, and alumni connected to Civilised Agent Lab and Liu AI Lab at the University of Auckland.
-permalink: /team/
+permalink: /people/
 ---
 {% assign cal = site.data.civilised_agent_lab %}
 {% assign people = cal.people %}
