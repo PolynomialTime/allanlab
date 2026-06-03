@@ -34,7 +34,7 @@
   email: zhirui.zeng@auckland.ac.nz
 
 - name: Pengqian Han
-  photo: pengqian.jpg
+  photo: pengqianhan.jpg
   duration: 2021.10 -- Present
   email: phan635@aucklanduni.ac.nz
   bio: I got my master's degree in aeronautical engineering from Beihang University in 2018 and got my bachelor's degree from Hebei University of Technology in 2014. I have been an engineer in China Mobile Group Tianjin Company from 2018 to 2021. My main research interests are machine learning, deep learning, and graph-based neural network.
@@ -58,9 +58,3 @@
   email: lni600@aucklanduni.ac.nz
   bio: Lin Ni, a practitioner and academic, is keen to turn AI technologies into concrete value. She received a B.E. degree from Northeastern University (China) in 2010, and a Postgraduate Diploma in Computer Science from the University of Auckland in 2017. She lands technologies and provides AI solutions to address the challenges in the industry, dabbled in Car Navigation systems, Recommendation systems, Multi-agent systems, and Natural Language Processing projects. Chatbots attract her focus in recent years, especially chatbots in the health and medical domain.
 
-- name: Libo Zhang
-  photo: libo.jpg
-  duration: 2022.02 -- Present 
-  email: lzha797@aucklanduni.ac.nz
-  homepage: https://a71uuy.github.io/
-  bio: I received a degree of Master of Professional Studies with First Class Honours in Data Science, the Graduate Diploma in Science from the University of Auckland in 2021, and the Bachelor degree from the Southwest University in 2020. My personal research interests lie in the reinforcement learning and the multi-agent systems. In detail, I am interested in the challenges in both cooperative and non-cooperative settings in adapting reinforcement learning to multi-agent systems.
