@@ -93,16 +93,6 @@ a {
   color: #67e8f9;
 }
 
-.home-page .site-nav {
-  justify-content: flex-end;
-  gap: 22px;
-}
-
-.home-page .site-nav a {
-  font-size: 17px;
-  line-height: 18px;
-}
-
 .header-shell {
   min-height: 156px;
   display: grid;
@@ -114,7 +104,12 @@ a {
 
 .wordmark {
   display: inline-grid;
-  width: 300px;
+  width: max-content;
+  max-width: 380px;
+  grid-template-columns: minmax(0, max-content) 68px;
+  grid-template-rows: auto auto;
+  column-gap: 12px;
+  align-items: center;
   color: var(--umber);
   font-family: "Google Sans", "Open Sans", Helvetica, Arial, sans-serif;
   font-size: 48px;
@@ -123,29 +118,19 @@ a {
   text-decoration: none;
 }
 
-.wordmark-logo {
-  display: none;
-}
-
-.home-page .wordmark {
-  width: max-content;
-  max-width: 380px;
-  grid-template-columns: minmax(0, max-content) 68px;
-  grid-template-rows: auto auto;
-  column-gap: 12px;
-  align-items: center;
-}
-
-.home-page .wordmark span {
+.wordmark span {
   grid-column: 1;
 }
 
-.home-page .wordmark-logo {
+.wordmark-logo {
   display: block;
   grid-column: 2;
   grid-row: 1 / span 2;
   width: 68px;
   height: 52px;
+}
+
+.home-page .wordmark-logo {
   filter: drop-shadow(0 10px 18px rgba(2, 6, 23, 0.42));
 }
 
@@ -153,7 +138,7 @@ a {
   display: flex;
   justify-content: flex-end;
   align-items: center;
-  gap: 34px;
+  gap: 22px;
   min-width: 0;
   max-width: 100%;
 }
@@ -162,9 +147,9 @@ a {
   margin-top: 4px;
   color: var(--body);
   font-family: "Google Sans", "Open Sans", Helvetica, Arial, sans-serif;
-  font-size: 20px;
+  font-size: 17px;
   font-weight: 500;
-  line-height: 20px;
+  line-height: 18px;
   text-decoration: none;
   text-transform: uppercase;
   white-space: nowrap;
@@ -1074,47 +1059,33 @@ address a {
   }
 
   .header-shell {
-    grid-template-columns: 1fr;
-    gap: 28px;
-  }
-
-  .site-nav {
-    justify-content: flex-start;
-    flex-wrap: wrap;
-    gap: 14px 24px;
-  }
-
-  .home-page .header-shell {
     grid-template-columns: 220px minmax(0, 1fr);
     gap: 24px;
   }
 
-  .home-page .wordmark {
-    width: 220px;
-    font-size: 42px;
-    line-height: 38px;
+  .site-nav {
+    justify-content: flex-end;
+    flex-wrap: wrap;
+    gap: 14px 20px;
   }
 
-  .home-page .wordmark {
+  .site-nav a {
+    font-size: 15px;
+    line-height: 17px;
+  }
+
+  .wordmark {
+    font-size: 42px;
+    line-height: 38px;
     width: max-content;
     max-width: 316px;
     grid-template-columns: minmax(0, max-content) 56px;
     column-gap: 12px;
   }
 
-  .home-page .wordmark-logo {
+  .wordmark-logo {
     width: 56px;
     height: 44px;
-  }
-
-  .home-page .site-nav {
-    justify-content: flex-end;
-    gap: 14px 20px;
-  }
-
-  .home-page .site-nav a {
-    font-size: 15px;
-    line-height: 17px;
   }
 
   .hero-shell {
@@ -1155,35 +1126,20 @@ address a {
     gap: 24px;
   }
 
-  .wordmark {
-    width: 200px;
-    font-size: 42px;
-    line-height: 38px;
-  }
-
   .site-nav {
-    gap: 12px 28px;
+    justify-content: flex-start;
+    gap: 10px 18px;
     align-items: flex-start;
   }
 
   .site-nav a {
-    font-size: 16px;
-    line-height: 18px;
+    font-size: 15px;
+    line-height: 17px;
     white-space: normal;
   }
 
-  .home-page .header-shell {
+  .header-shell {
     grid-template-columns: 1fr;
-  }
-
-  .home-page .site-nav {
-    justify-content: flex-start;
-    gap: 10px 18px;
-  }
-
-  .home-page .site-nav a {
-    font-size: 15px;
-    line-height: 17px;
   }
 
   .hero-shell {
