@@ -149,10 +149,10 @@ people:
 
 publications:
   label: Publications
-  title: Selected publications
-  intro: A curated publication record connected to multi-agent systems, machine learning, reasoning, social networks, data markets, and trustworthy AI.
+  title: Publications
+  intro: A publication record connected to multi-agent systems, machine learning, reasoning, social networks, data markets, and trustworthy AI.
   section_label: Record
-  section_title: Selected publication record
+  section_title: Publication record
 
 seminars:
   label: Group Seminars
